@@ -1,30 +1,30 @@
 [
   {
-    "name": "Lemon Essential Oil",
     "src": "assets/items/Essential-Oils-Lab/Lemon_Essential_Oil.webp",
-    "category": "Essential-Oils-Lab",
+    "name": "Lemon Essential Oil",
     "qty": 0,
-    "lvl": 68
+    "level": 68,
+    "category": "Essential-Oils-Lab"
   },
   {
-    "name": "Chamomile Essential Oil",
     "src": "assets/items/Essential-Oils-Lab/Chamomile_Essential_Oil.webp",
-    "category": "Essential-Oils-Lab",
+    "name": "Chamomile Essential Oil",
     "qty": 0,
-    "lvl": 74
+    "level": 74,
+    "category": "Essential-Oils-Lab"
   },
   {
-    "name": "Ginger Essential Oil",
     "src": "assets/items/Essential-Oils-Lab/Ginger_Essential_Oil.webp",
-    "category": "Essential-Oils-Lab",
+    "name": "Ginger Essential Oil",
     "qty": 0,
-    "lvl": 80
+    "level": 80,
+    "category": "Essential-Oils-Lab"
   },
   {
-    "name": "Mint Essential Oil",
     "src": "assets/items/Essential-Oils-Lab/Mint_Essential_Oil.webp",
-    "category": "Essential-Oils-Lab",
+    "name": "Mint Essential Oil",
     "qty": 0,
-    "lvl": 85
+    "level": 85,
+    "category": "Essential-Oils-Lab"
   }
 ]

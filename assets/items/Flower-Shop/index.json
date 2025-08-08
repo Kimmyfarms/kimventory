@@ -1,51 +1,51 @@
 [
-   {
-    "name": "Rustic Bouquet",
+  {
     "src": "assets/items/Flower-Shop/Rustic_Bouquet.webp",
-    "category": "Flower-Shop",
+    "name": "Rustic Bouquet",
     "qty": 0,
-    "lvl": 49
+    "level": 49,
+    "category": "Flower-Shop"
   },
   {
-    "name": "Bright Bouquet",
     "src": "assets/items/Flower-Shop/Bright_Bouquet.webp",
-    "category": "Flower-Shop",
+    "name": "Bright Bouquet",
     "qty": 0,
-    "lvl": 65
+    "level": 65,
+    "category": "Flower-Shop"
   },
   {
-    "name": "Gracious Bouquet",
     "src": "assets/items/Flower-Shop/Gracious_Bouquet.webp",
-    "category": "Flower-Shop",
+    "name": "Gracious Bouquet",
     "qty": 0,
-    "lvl": 73
+    "level": 73,
+    "category": "Flower-Shop"
   },
   {
-    "name": "Candy Bouquet",
     "src": "assets/items/Flower-Shop/Candy_Bouquet.webp",
-    "category": "Flower-Shop",
+    "name": "Candy Bouquet",
     "qty": 0,
-    "lvl": 90
+    "level": 90,
+    "category": "Flower-Shop"
   },
   {
-    "name": "Birthday Bouquet",
     "src": "assets/items/Flower-Shop/Birthday_Bouquet.webp",
-    "category": "Flower-Shop",
+    "name": "Birthday Bouquet",
     "qty": 0,
-    "lvl": 92
+    "level": 92,
+    "category": "Flower-Shop"
   },
   {
-    "name": "Soft Bouquet",
     "src": "assets/items/Flower-Shop/Soft_Bouquet.webp",
-    "category": "Flower-Shop",
+    "name": "Soft Bouquet",
     "qty": 0,
-    "lvl": 93
+    "level": 93,
+    "category": "Flower-Shop"
   },
   {
-    "name": "Veggie Bouquet",
     "src": "assets/items/Flower-Shop/Veggie_Bouquet.webp",
-    "category": "Flower-Shop",
+    "name": "Veggie Bouquet",
     "qty": 0,
-    "lvl": 106
+    "level": 106,
+    "category": "Flower-Shop"
   }
 ]

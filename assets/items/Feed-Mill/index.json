@@ -1,51 +1,51 @@
 [
   {
-    "name": "Chicken Feed",
     "src": "assets/items/Feed-Mill/Chicken_Feed.webp",
-    "category": "Feed-Mill",
+    "name": "Chicken Feed",
     "qty": 0,
-    "lvl": 3
+    "level": 3,
+    "category": "Feed-Mill"
   },
   {
-    "name": "Cow Feed",
     "src": "assets/items/Feed-Mill/Cow_Feed.webp",
-    "category": "Feed-Mill",
+    "name": "Cow Feed",
     "qty": 0,
-    "lvl": 6
+    "level": 6,
+    "category": "Feed-Mill"
   },
   {
-    "name": "Pig Feed",
     "src": "assets/items/Feed-Mill/Pig_Feed.webp",
-    "category": "Feed-Mill",
+    "name": "Pig Feed",
     "qty": 0,
-    "lvl": 10
+    "level": 10,
+    "category": "Feed-Mill"
   },
   {
-    "name": "Sheep Feed",
     "src": "assets/items/Feed-Mill/Sheep_Feed.webp",
-    "category": "Feed-Mill",
+    "name": "Sheep Feed",
     "qty": 0,
-    "lvl": 16
+    "level": 16,
+    "category": "Feed-Mill"
   },
   {
-    "name": "Goat Feed",
     "src": "assets/items/Feed-Mill/Goat_Feed.webp",
-    "category": "Feed-Mill",
+    "name": "Goat Feed",
     "qty": 0,
-    "lvl": 32
+    "level": 32,
+    "category": "Feed-Mill"
   },
   {
-    "name": "Wheat Bundle",
     "src": "assets/items/Feed-Mill/Wheat_Bundle.webp",
-    "category": "Feed-Mill",
+    "name": "Wheat Bundle",
     "qty": 0,
-    "lvl": 0
+    "level": 0,
+    "category": "Feed-Mill"
   },
   {
-    "name": "Meat Bucket",
     "src": "assets/items/Feed-Mill/Meat_Bucket.webp",
-    "category": "Feed-Mill",
+    "name": "Meat Bucket",
     "qty": 0,
-    "lvl": 0
+    "level": 0,
+    "category": "Feed-Mill"
   }
 ]

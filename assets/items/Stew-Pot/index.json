@@ -1,23 +1,23 @@
 [
   {
-    "name": "Chickpea Stew",
     "src": "assets/items/Stew-Pot/Chickpea_Stew.webp",
-    "category": "Stew Pot",
+    "name": "Chickpea Stew",
     "qty": 0,
-    "lvl": 106
+    "level": 106,
+    "category": "Stew-Pot"
   },
   {
-    "name": "Chili Stew",
     "src": "assets/items/Stew-Pot/Chili_Stew.webp",
-    "category": "Stew Pot",
+    "name": "Chili Stew",
     "qty": 0,
-    "lvl": 109
+    "level": 109,
+    "category": "Stew-Pot"
   },
   {
-    "name": "Winter Stew",
     "src": "assets/items/Stew-Pot/Winter_Stew.webp",
-    "category": "Stew Pot",
+    "name": "Winter Stew",
     "qty": 0,
-    "lvl": 112
+    "level": 112,
+    "category": "Stew-Pot"
   }
 ]

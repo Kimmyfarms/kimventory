@@ -1,30 +1,30 @@
 [
   {
-    "name": "Plain Cupcake",
     "src": "assets/items/Cupcake-Maker/Plain_Cupcake.webp",
-    "category": "Cupcake-Maker",
+    "name": "Plain Cupcake",
     "qty": 0,
-    "lvl": 109
+    "level": 109,
+    "category": "Cupcake-Maker"
   },
   {
-    "name": "Guava Cupcake",
     "src": "assets/items/Cupcake-Maker/Guava_Cupcake.webp",
-    "category": "Cupcake-Maker",
+    "name": "Guava Cupcake",
     "qty": 0,
-    "lvl": 109
+    "level": 109,
+    "category": "Cupcake-Maker"
   },
   {
-    "name": "Tropical Cupcake",
     "src": "assets/items/Cupcake-Maker/Tropical_Cupcake.webp",
-    "category": "Cupcake-Maker",
+    "name": "Tropical Cupcake",
     "qty": 0,
-    "lvl": 112
+    "level": 112,
+    "category": "Cupcake-Maker"
   },
   {
-    "name": "Cookie Cupcake",
     "src": "assets/items/Cupcake-Maker/Cookie_Cupcake.webp",
-    "category": "Cupcake-Maker",
+    "name": "Cookie Cupcake",
     "qty": 0,
-    "lvl": 114
+    "level": 114,
+    "category": "Cupcake-Maker"
   }
 ]

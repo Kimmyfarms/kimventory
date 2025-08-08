@@ -1,44 +1,44 @@
 [
   {
-    "name": "Sweater",
     "src": "assets/items/Loom/Sweater.webp",
-    "category": "Loom",
+    "name": "Sweater",
     "qty": 0,
-    "lvl": 17
+    "level": 17,
+    "category": "Loom"
   },
   {
-    "name": "Cotton Fabric",
     "src": "assets/items/Loom/Cotton_Fabric.webp",
-    "category": "Loom",
+    "name": "Cotton Fabric",
     "qty": 0,
-    "lvl": 18
+    "level": 18,
+    "category": "Loom"
   },
   {
-    "name": "Blue Woolly Hat",
     "src": "assets/items/Loom/Blue_Woolly_Hat.webp",
-    "category": "Loom",
+    "name": "Blue Woolly Hat",
     "qty": 0,
-    "lvl": 19
+    "level": 19,
+    "category": "Loom"
   },
   {
-    "name": "Blue Sweater",
     "src": "assets/items/Loom/Blue_Sweater.webp",
-    "category": "Loom",
+    "name": "Blue Sweater",
     "qty": 0,
-    "lvl": 20
+    "level": 20,
+    "category": "Loom"
   },
   {
-    "name": "Red Scarf",
     "src": "assets/items/Loom/Red_Scarf.webp",
-    "category": "Loom",
+    "name": "Red Scarf",
     "qty": 0,
-    "lvl": 48
+    "level": 48,
+    "category": "Loom"
   },
   {
-    "name": "Flower Shawl",
     "src": "assets/items/Loom/Flower_Shawl.webp",
-    "category": "Loom",
+    "name": "Flower Shawl",
     "qty": 0,
-    "lvl": 71
+    "level": 71,
+    "category": "Loom"
   }
 ]

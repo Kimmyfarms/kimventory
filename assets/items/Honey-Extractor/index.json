@@ -2,14 +2,14 @@
   {
     "src": "assets/items/Honey-Extractor/Honey.webp",
     "name": "Honey",
-    "qty": 15,
+    "qty": 0,
 	"level": 39, 
     "category": "Honey-Extractor"
   },
   {
     "src": "assets/items/Honey-Extractor/Beeswax.webp",
     "name": "Beeswax",
-    "qty": 15,
+    "qty": 0,
 	"level": 48, 
     "category": "Honey-Extractor"
   }

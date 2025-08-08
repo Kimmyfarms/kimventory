@@ -3,7 +3,7 @@
         "src": "assets/items/Dead-Tree/Dead_Tree.webp",
         "name": "Dead Tree",
         "qty": 0,
-        "level": 15,
+        "level": 0,
         "category": "Dead-Tree"
     }
 ]

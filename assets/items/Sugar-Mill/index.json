@@ -1,23 +1,23 @@
 [
   {
-    "name": "Brown Sugar",
     "src": "assets/items/Sugar-Mill/Brown_Sugar.webp",
-    "category": "Sugar-Mill",
+    "name": "Brown Sugar",
     "qty": 0,
-    "lvl": 7
+    "level": 7,
+    "category": "Sugar-Mill"
   },
   {
-    "name": "White Sugar",
     "src": "assets/items/Sugar-Mill/White_Sugar.webp",
-    "category": "Sugar-Mill",
+    "name": "White Sugar",
     "qty": 0,
-    "lvl": 13
+    "level": 13,
+    "category": "Sugar-Mill"
   },
   {
-    "name": "Syrup",
     "src": "assets/items/Sugar-Mill/Syrup.webp",
-    "category": "Sugar-Mill",
+    "name": "Syrup",
     "qty": 0,
-    "lvl": 18
+    "level": 18,
+    "category": "Sugar-Mill"
   }
 ]

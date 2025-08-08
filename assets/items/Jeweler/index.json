@@ -1,37 +1,37 @@
 [
   {
-    "name": "Bracelet",
     "src": "assets/items/Jeweler/Bracelet.webp",
-    "category": "Jeweler",
+    "name": "Bracelet",
     "qty": 0,
-    "lvl": 38
+    "level": 38,
+    "category": "Jeweler"
   },
   {
-    "name": "Necklace",
     "src": "assets/items/Jeweler/Necklace.webp",
-    "category": "Jeweler",
+    "name": "Necklace",
     "qty": 0,
-    "lvl": 39
+    "level": 39,
+    "category": "Jeweler"
   },
   {
-    "name": "Diamond Ring",
     "src": "assets/items/Jeweler/Diamond_Ring.webp",
-    "category": "Jeweler",
+    "name": "Diamond Ring",
     "qty": 0,
-    "lvl": 40
+    "level": 40,
+    "category": "Jeweler"
   },
   {
-    "name": "Iron Bracelet",
     "src": "assets/items/Jeweler/Iron_Bracelet.webp",
-    "category": "Jeweler",
+    "name": "Iron Bracelet",
     "qty": 0,
-    "lvl": 41
+    "level": 41,
+    "category": "Jeweler"
   },
   {
-    "name": "Flower Pendant",
     "src": "assets/items/Jeweler/Flower_Pendant.webp",
-    "category": "Jeweler",
+    "name": "Flower Pendant",
     "qty": 0,
-    "lvl": 98
+    "level": 98,
+    "category": "Jeweler"
   }
 ]

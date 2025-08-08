@@ -1,30 +1,30 @@
 [
   {
-    "name": "Hot Dog",
     "src": "assets/items/Hot-Dog-Stand/Hot_Dog.webp",
-    "category": "Hot-Dog-Stand",
+    "name": "Hot Dog",
     "qty": 0,
-    "lvl": 75
+    "level": 75,
+    "category": "Hot-Dog-Stand"
   },
   {
-    "name": "Tofu Dog",
     "src": "assets/items/Hot-Dog-Stand/Tofu_Dog.webp",
-    "category": "Hot-Dog-Stand",
+    "name": "Tofu Dog",
     "qty": 0,
-    "lvl": 76
+    "level": 76,
+    "category": "Hot-Dog-Stand"
   },
   {
-    "name": "Corn Dog",
     "src": "assets/items/Hot-Dog-Stand/Corn_Dog.webp",
-    "category": "Hot-Dog-Stand",
+    "name": "Corn Dog",
     "qty": 0,
-    "lvl": 78
+    "level": 78,
+    "category": "Hot-Dog-Stand"
   },
   {
-    "name": "Onion Dog",
     "src": "assets/items/Hot-Dog-Stand/Onion_Dog.webp",
-    "category": "Hot-Dog-Stand",
+    "name": "Onion Dog",
     "qty": 0,
-    "lvl": 80
+    "level": 80,
+    "category": "Hot-Dog-Stand"
   }
 ]

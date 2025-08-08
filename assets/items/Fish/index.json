@@ -2,7 +2,7 @@
   {
     "src": "assets/items/Fish/Fish_Fillet.webp",
     "name": "Fish Fillet",
-    "qty": 15,
+    "qty": 0,
 	"level": 27, 
     "category": "Fish"
   }

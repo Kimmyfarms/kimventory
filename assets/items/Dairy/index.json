@@ -2,28 +2,28 @@
   {
     "src": "assets/items/Dairy/Cream.webp",
     "name": "Cream",
-    "qty": 15,
+    "qty": 0,
 	"level": 2, 
     "category": "Dairy"
   },
   {
     "src": "assets/items/Dairy/Butter.webp",
     "name": "Butter",
-    "qty": 15,
+    "qty": 0,
 	"level": 7, 
     "category": "Dairy"
   },
   {
     "src": "assets/items/Dairy/Cheese.webp",
     "name": "Cheese",
-    "qty": 15,
+    "qty": 0,
 	"level": 10, 
     "category": "Dairy"
   },
   {
     "src": "assets/items/Dairy/Goat_Cheese.webp",
     "name": "Goat Cheese",
-    "qty": 15,
+    "qty": 0,
 	"level": 19, 
     "category": "Dairy"
   }

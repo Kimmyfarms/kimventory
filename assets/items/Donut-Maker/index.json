@@ -1,44 +1,44 @@
 [
   {
-    "name": "Plain Donut",
     "src": "assets/items/Donut-Maker/Plain_Donut.webp",
-    "category": "Donut-Maker",
+    "name": "Plain Donut",
     "qty": 0,
-    "lvl": 76
+    "level": 76,
+    "category": "Donut-Maker"
   },
   {
-    "name": "Sprinkled Donut",
     "src": "assets/items/Donut-Maker/Sprinkled_Donut.webp",
-    "category": "Donut-Maker",
+    "name": "Sprinkled Donut",
     "qty": 0,
-    "lvl": 79
+    "level": 79,
+    "category": "Donut-Maker"
   },
   {
-    "name": "Crunchy Donut",
     "src": "assets/items/Donut-Maker/Crunchy_Donut.webp",
-    "category": "Donut-Maker",
+    "name": "Crunchy Donut",
     "qty": 0,
-    "lvl": 82
+    "level": 82,
+    "category": "Donut-Maker"
   },
   {
-    "name": "Cream Donut",
     "src": "assets/items/Donut-Maker/Cream_Donut.webp",
-    "category": "Donut-Maker",
+    "name": "Cream Donut",
     "qty": 0,
-    "lvl": 86
+    "level": 86,
+    "category": "Donut-Maker"
   },
   {
-    "name": "Bacon Donut",
     "src": "assets/items/Donut-Maker/Bacon_Donut.webp",
-    "category": "Donut-Maker",
+    "name": "Bacon Donut",
     "qty": 0,
-    "lvl": 88
+    "level": 88,
+    "category": "Donut-Maker"
   },
   {
-    "name": "Filled Donut",
     "src": "assets/items/Donut-Maker/Filled_Donut.webp",
-    "category": "Donut-Maker",
+    "name": "Filled Donut",
     "qty": 0,
-    "lvl": 93
+    "level": 93,
+    "category": "Donut-Maker"
   }
 ]

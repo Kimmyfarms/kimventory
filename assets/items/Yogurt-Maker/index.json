@@ -1,30 +1,30 @@
 [
   {
-    "name": "Plain Yogurt",
     "src": "assets/items/Yogurt-Maker/Plain_Yogurt.webp",
-    "category": "Yogurt Maker",
+    "name": "Plain Yogurt",
     "qty": 0,
-    "lvl": 103
+    "level": 103,
+    "category": "Yogurt-Maker"
   },
   {
-    "name": "Strawberry Yogurt",
     "src": "assets/items/Yogurt-Maker/Strawberry_Yogurt.webp",
-    "category": "Yogurt Maker",
+    "name": "Strawberry Yogurt",
     "qty": 0,
-    "lvl": 105
+    "level": 105,
+    "category": "Yogurt-Maker"
   },
   {
-    "name": "Tropical Yogurt",
     "src": "assets/items/Yogurt-Maker/Tropical_Yogurt.webp",
-    "category": "Yogurt Maker",
+    "name": "Tropical Yogurt",
     "qty": 0,
-    "lvl": 109
+    "level": 109,
+    "category": "Yogurt-Maker"
   },
   {
-    "name": "Breakfast Bowl",
     "src": "assets/items/Yogurt-Maker/Breakfast_Bowl.webp",
-    "category": "Yogurt Maker",
+    "name": "Breakfast Bowl",
     "qty": 0,
-    "lvl": 119
+    "level": 119,
+    "category": "Yogurt-Maker"
   }
 ]

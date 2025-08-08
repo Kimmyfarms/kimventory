@@ -1,37 +1,37 @@
 [
   {
-    "name": "Colourful Omelet",
     "src": "assets/items/Omelet-Station/Colourful_Omelet.webp",
-    "category": "Omelet Station",
+    "name": "Colourful Omelet",
     "qty": 0,
-    "lvl": 77
+    "level": 77,
+    "category": "Omelet Station"
   },
   {
-    "name": "Spring Omelet",
     "src": "assets/items/Omelet-Station/Spring_Omelet.webp",
-    "category": "Omelet Station",
+    "name": "Spring Omelet",
     "qty": 0,
-    "lvl": 77
+    "level": 77,
+    "category": "Omelet Station"
   },
   {
-    "name": "Cheese Omelet",
     "src": "assets/items/Omelet-Station/Cheese_Omelet.webp",
-    "category": "Omelet Station",
+    "name": "Cheese Omelet",
     "qty": 0,
-    "lvl": 79
+    "level": 79,
+    "category": "Omelet Station"
   },
   {
-    "name": "Rice Omelet",
     "src": "assets/items/Omelet-Station/Rice_Omelet.webp",
-    "category": "Omelet Station",
+    "name": "Rice Omelet",
     "qty": 0,
-    "lvl": 83
+    "level": 83,
+    "category": "Omelet Station"
   },
   {
-    "name": "Potato Omelet",
     "src": "assets/items/Omelet-Station/Potato_Omelet.webp",
-    "category": "Omelet Station",
+    "name": "Potato Omelet",
     "qty": 0,
-    "lvl": 87
+    "level": 87,
+    "category": "Omelet Station"
   }
 ]

@@ -1,65 +1,52 @@
 [
   {
-    "name": "Veggie Bagel",
     "src": "assets/items/Sandwich-Bar/Veggie_Bagel.webp",
-    "category": "Sandwich-Bar",
+    "name": "Veggie Bagel",
     "qty": 0,
-    "lvl": 61
+    "level": 61,
+    "category": "Sandwich-Bar"
   },
   {
-    "name": "Bacon Toast",
     "src": "assets/items/Sandwich-Bar/Bacon_Toast.webp",
-    "category": "Sandwich-Bar",
+    "name": "Bacon Toast",
     "qty": 0,
-    "lvl": 65
+    "level": 65,
+    "category": "Sandwich-Bar"
   },
   {
-    "name": "Egg Sandwich",
     "src": "assets/items/Sandwich-Bar/Egg_Sandwich.webp",
-    "category": "Sandwich-Bar",
+    "name": "Egg Sandwich",
     "qty": 0,
-    "lvl": 66
+    "level": 66,
+    "category": "Sandwich-Bar"
   },
   {
-    "name": "Honey Toast",
     "src": "assets/items/Sandwich-Bar/Honey_Toast.webp",
-    "category": "Sandwich-Bar",
+    "name": "Honey Toast",
     "qty": 0,
-    "lvl": 69
+    "level": 69,
+    "category": "Sandwich-Bar"
   },
   {
-    "name": "Peanut Butter Sandwich",
     "src": "assets/items/Sandwich-Bar/Peanut_Butter_and_Jelly_Sandwich.webp",
-    "category": "Sandwich-Bar",
+    "name": "Peanut Butter Sandwich",
     "qty": 0,
-    "lvl": 71
+    "level": 71,
+    "category": "Sandwich-Bar"
   },
   {
-    "name": "Cucumber Sandwich",
     "src": "assets/items/Sandwich-Bar/Cucumber_Sandwich.webp",
-    "category": "Sandwich-Bar",
+    "name": "Cucumber Sandwich",
     "qty": 0,
-    "lvl": 79
+    "level": 79,
+    "category": "Sandwich-Bar"
   },
   {
-    "name": "Onion Melt",
     "src": "assets/items/Sandwich-Bar/Onion_Melt.webp",
-    "category": "Sandwich-Bar",
+    "name": "Onion Melt",
     "qty": 0,
-    "lvl": 84
+    "level": 84,
+    "category": "Sandwich-Bar"
   },
   {
-    "name": "Goat Cheese Toast",
-    "src": "assets/items/Sandwich-Bar/Goat_Cheese_Toast.webp",
-    "category": "Sandwich-Bar",
-    "qty": 0,
-    "lvl": 92
-  },
-  {
-    "name": "Hummus Wrap",
-    "src": "assets/items/Sandwich-Bar/Hummus_Wrap.webp",
-    "category": "Sandwich-Bar",
-    "qty": 0,
-    "lvl": 109
-  }
-]
+    "src": "assets/items/Sandwich-Bar

@@ -2,112 +2,112 @@
   {
     "src": "assets/items/Bbq/Pancake.webp",
     "name": "Pancake",
-    "qty": 15,
+    "qty": 0,
 	"level": 9, 
     "category": "BBQ Grill"
   },
   {
     "src": "assets/items/Bbq/Bacon_and_Eggs.webp",
     "name": "Bacon and Eggs",
-    "qty": 15,
+    "qty": 0,
 	"level": 11, 
     "category": "BBQ Grill"
   },
   {
     "src": "assets/items/Bbq/Hamburger.webp",
     "name": "Hamburger",
-    "qty": 15,
+    "qty": 0,
 	"level": 18, 
     "category": "BBQ Grill"
   },
   {
     "src": "assets/items/Bbq/Fish_Burger.webp",
     "name": "Fish Burger",
-    "qty": 15,
+    "qty": 0,
 	"level": 27, 
     "category": "BBQ Grill"
   },
    {
     "src": "assets/items/Bbq/Roasted_Tomatoes.webp",
     "name": "Roasted Tomatoes",
-    "qty": 15,
+    "qty": 0,
 	"level": 30, 
     "category": "BBQ Grill"
   },
   {
     "src": "assets/items/Bbq/Baked_Potato.webp",
     "name": "Baked Potato",
-    "qty": 15,
+    "qty": 0,
 	"level": 35, 
     "category": "BBQ Grill"
   },
   {
     "src": "assets/items/Bbq/Fish_and_Chips.webp",
     "name": "Fish and Chips",
-    "qty": 15,
+    "qty": 0,
 	"level": 41, 
     "category": "BBQ Grill"
   },
   {
     "src": "assets/items/Bbq/Lobster_Skewer.webp",
     "name": "Lobster Skewer",
-    "qty": 15,
+    "qty": 0,
 	"level": 48, 
     "category": "BBQ Grill"
   },
    {
     "src": "assets/items/Bbq/Garlic_Bread.webp",
     "name": "Garlic Bread",
-    "qty": 15,
+    "qty": 0,
 	"level": 60, 
     "category": "BBQ Grill"
   },
   {
     "src": "assets/items/Bbq/Grilled_Asparagus.webp",
     "name": "Grilled Asparagus",
-    "qty": 15,
+    "qty": 0,
 	"level": 67, 
     "category": "BBQ Grill"
   },
   {
     "src": "assets/items/Bbq/Grilled_Onion.webp",
     "name": "Grilled Onion",
-    "qty": 15,
+    "qty": 0,
 	"level": 68, 
     "category": "BBQ Grill"
   },
   {
     "src": "assets/items/Bbq/Winter_Veggies.webp",
     "name": "Winter Veggies",
-    "qty": 15,
+    "qty": 0,
 	"level": 72, 
     "category": "BBQ Grill"
   },
   {
     "src": "assets/items/Bbq/Stuffed_Peppers.webp",
     "name": "Stuffed Peppers",    
-    "qty": 15,
+    "qty": 0,
 	"level": 80, 
     "category": "BBQ Grill"
   },
   {
     "src": "assets/items/Bbq/Grilled_Eggplant.webp",
     "name": "Grilled Eggplant",
-    "qty": 15,
+    "qty": 0,
 	"level": 90, 
     "category": "BBQ Grill"
   },
   {
     "src": "assets/items/Bbq/Banana_Pancakes.webp",
     "name": "Banana Pancakes",
-    "qty": 15,
+    "qty": 0,
 	"level": 94, 
     "category": "BBQ Grill"
   },
   {
     "src": "assets/items/Bbq/Fish_Skewer.webp",
     "name": "Fish Skewer",    
-    "qty": 15,
+    "qty": 0,
 	"level": 96, 
     "category": "BBQ Grill"
   }

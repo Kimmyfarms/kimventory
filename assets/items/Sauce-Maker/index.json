@@ -1,65 +1,65 @@
 [
   {
-    "name": "Soy Sauce",
     "src": "assets/items/Sauce-Maker/Soy_Sauce.webp",
-    "category": "Sauce Maker",
+    "name": "Soy Sauce",
     "qty": 0,
-    "lvl": 54
+    "level": 54,
+    "category": "Sauce-Maker"
   },
   {
-    "name": "Olive Oil",
     "src": "assets/items/Sauce-Maker/Olive_Oil.webp",
-    "category": "Sauce Maker",
+    "name": "Olive Oil",
     "qty": 0,
-    "lvl": 60
+    "level": 60,
+    "category": "Sauce-Maker"
   },
   {
-    "name": "Mayonnaise",
     "src": "assets/items/Sauce-Maker/Mayonnaise.webp",
-    "category": "Sauce Maker",
+    "name": "Mayonnaise",
     "qty": 0,
-    "lvl": 62
+    "level": 62,
+    "category": "Sauce-Maker"
   },
   {
-    "name": "Lemon Curd",
     "src": "assets/items/Sauce-Maker/Lemon_Curd.webp",
-    "category": "Sauce Maker",
+    "name": "Lemon Curd",
     "qty": 0,
-    "lvl": 66
+    "level": 66,
+    "category": "Sauce-Maker"
   },
   {
-    "name": "Olive Dip",
     "src": "assets/items/Sauce-Maker/Olive_Dip.webp",
-    "category": "Sauce Maker",
+    "name": "Olive Dip",
     "qty": 0,
-    "lvl": 66
+    "level": 66,
+    "category": "Sauce-Maker"
   },
   {
-    "name": "Tomato Sauce",
     "src": "assets/items/Sauce-Maker/Tomato_Sauce.webp",
-    "category": "Sauce Maker",
+    "name": "Tomato Sauce",
     "qty": 0,
-    "lvl": 69
+    "level": 69,
+    "category": "Sauce-Maker"
   },
   {
-    "name": "Salsa",
     "src": "assets/items/Sauce-Maker/Salsa.webp",
-    "category": "Sauce Maker",
+    "name": "Salsa",
     "qty": 0,
-    "lvl": 77
+    "level": 77,
+    "category": "Sauce-Maker"
   },
   {
-    "name": "Hummus",
     "src": "assets/items/Sauce-Maker/Hummus.webp",
-    "category": "Sauce Maker",
+    "name": "Hummus",
     "qty": 0,
-    "lvl": 95
+    "level": 95,
+    "category": "Sauce-Maker"
   },
   {
-    "name": "Tart Dressing",
     "src": "assets/items/Sauce-Maker/Tart_Dressing.webp",
-    "category": "Sauce Maker",
+    "name": "Tart Dressing",
     "qty": 0,
-    "lvl": 100
+    "level": 100,
+    "category": "Sauce-Maker"
   }
 ]

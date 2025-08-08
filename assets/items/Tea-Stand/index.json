@@ -1,72 +1,62 @@
 [
   {
-    "name": "Green Tea",
     "src": "assets/items/Tea-Stand/Green_Tea.webp",
-    "category": "Tea Stand",
+    "name": "Green Tea",
     "qty": 0,
-    "lvl": 80
+    "level": 80,
+    "category": "Tea-Stand"
   },
   {
-    "name": "Milk Tea",
     "src": "assets/items/Tea-Stand/Milk_Tea.webp",
-    "category": "Tea Stand",
+    "name": "Milk Tea",
     "qty": 0,
-    "lvl": 81
+    "level": 81,
+    "category": "Tea-Stand"
   },
   {
-    "name": "Honey Tea",
     "src": "assets/items/Tea-Stand/Honey_Tea.webp",
-    "category": "Tea Stand",
+    "name": "Honey Tea",
     "qty": 0,
-    "lvl": 83
+    "level": 83,
+    "category": "Tea-Stand"
   },
   {
-    "name": "Lemon Tea",
     "src": "assets/items/Tea-Stand/Lemon_Tea.webp",
-    "category": "Tea Stand",
+    "name": "Lemon Tea",
     "qty": 0,
-    "lvl": 86
+    "level": 86,
+    "category": "Tea-Stand"
   },
   {
-    "name": "Apple Ginger Tea",
     "src": "assets/items/Tea-Stand/Apple_Ginger_Tea.webp",
-    "category": "Tea Stand",
+    "name": "Apple Ginger Tea",
     "qty": 0,
-    "lvl": 88
+    "level": 88,
+    "category": "Tea-Stand"
   },
   {
-    "name": "Orange Tea",
     "src": "assets/items/Tea-Stand/Orange_Tea.webp",
-    "category": "Tea Stand",
+    "name": "Orange Tea",
     "qty": 0,
-    "lvl": 89
+    "level": 89,
+    "category": "Tea-Stand"
   },
   {
-    "name": "Iced Tea",
     "src": "assets/items/Tea-Stand/Iced_Tea.webp",
-    "category": "Tea Stand",
+    "name": "Iced Tea",
     "qty": 0,
-    "lvl": 92
+    "level": 92,
+    "category": "Tea-Stand"
   },
   {
-    "name": "Mint Tea",
     "src": "assets/items/Tea-Stand/Mint_Tea.webp",
-    "category": "Tea Stand",
+    "name": "Mint Tea",
     "qty": 0,
-    "lvl": 97
+    "level": 97,
+    "category": "Tea-Stand"
   },
   {
-    "name": "Chamomile Tea",
     "src": "assets/items/Tea-Stand/Chamomile_Tea.webp",
-    "category": "Tea Stand",
+    "name": "Chamomile Tea",
     "qty": 0,
-    "lvl": 100
-  },
-  {
-    "name": "Pomegranate Tea",
-    "src": "assets/items/Tea-Stand/Pomegranate_Tea.webp",
-    "category": "Tea Stand",
-    "qty": 0,
-    "lvl": 107
-  }
-]
+    "level": 10

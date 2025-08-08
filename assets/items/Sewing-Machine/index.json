@@ -1,44 +1,44 @@
 [
   {
-    "name": "Cotton Shirt",
     "src": "assets/items/Sewing-Machine/Cotton_Shirt.webp",
-    "category": "Sewing-Machine",
+    "name": "Cotton Shirt",
     "qty": 0,
-    "lvl": 19
+    "level": 19,
+    "category": "Sewing-Machine"
   },
   {
-    "name": "Wooly Chaps",
     "src": "assets/items/Sewing-Machine/Wooly_Chaps.webp",
-    "category": "Sewing-Machine",
+    "name": "Wooly Chaps",
     "qty": 0,
-    "lvl": 21
+    "level": 21,
+    "category": "Sewing-Machine"
   },
   {
-    "name": "Violet Dress",
     "src": "assets/items/Sewing-Machine/Violet_Dress.webp",
-    "category": "Sewing-Machine",
+    "name": "Violet Dress",
     "qty": 0,
-    "lvl": 25
+    "level": 25,
+    "category": "Sewing-Machine"
   },
   {
-    "name": "Soothing Pad",
     "src": "assets/items/Sewing-Machine/Soothing_Pad.webp",
-    "category": "Sewing-Machine",
+    "name": "Soothing Pad",
     "qty": 0,
-    "lvl": 45
+    "level": 45,
+    "category": "Sewing-Machine"
   },
   {
-    "name": "Pillow",
     "src": "assets/items/Sewing-Machine/Pillow.webp",
-    "category": "Sewing-Machine",
+    "name": "Pillow",
     "qty": 0,
-    "lvl": 51
+    "level": 51,
+    "category": "Sewing-Machine"
   },
   {
-    "name": "Blanket",
     "src": "assets/items/Sewing-Machine/Blanket.webp",
-    "category": "Sewing-Machine",
+    "name": "Blanket",
     "qty": 0,
-    "lvl": 59
+    "level": 59,
+    "category": "Sewing-Machine"
   }
 ]

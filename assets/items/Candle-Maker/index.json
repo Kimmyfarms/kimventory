@@ -1,37 +1,37 @@
 [
   {
-    "name": "Strawberry Candle",
     "src": "assets/items/Candle-Maker/Strawberry_Candle.webp",
-    "category": "Candle-Maker",
+    "name": "Strawberry Candle",
     "qty": 0,
-    "lvl": 48
+    "level": 48,
+    "category": "Candle-Maker"
   },
   {
-    "name": "Raspberry Candle",
     "src": "assets/items/Candle-Maker/Raspberry_Candle.webp",
-    "category": "Candle-Maker",
+    "name": "Raspberry Candle",
     "qty": 0,
-    "lvl": 52
+    "level": 52,
+    "category": "Candle-Maker"
   },
   {
-    "name": "Lemon Candle",
     "src": "assets/items/Candle-Maker/Lemon_Candle.webp",
-    "category": "Candle-Maker",
+    "name": "Lemon Candle",
     "qty": 0,
-    "lvl": 72
+    "level": 72,
+    "category": "Candle-Maker"
   },
   {
-    "name": "Colorful Candles",
     "src": "assets/items/Candle-Maker/Colorful_Candles.webp",
-    "category": "Candle-Maker",
+    "name": "Colorful Candles",
     "qty": 0,
-    "lvl": 84
+    "level": 84,
+    "category": "Candle-Maker"
   },
   {
-    "name": "Floral Candle",
     "src": "assets/items/Candle-Maker/Floral_Candle.webp",
-    "category": "Candle-Maker",
+    "name": "Floral Candle",
     "qty": 0,
-    "lvl": 95
+    "level": 95,
+    "category": "Candle-Maker"
   }
 ]

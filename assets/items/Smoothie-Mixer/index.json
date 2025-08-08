@@ -1,65 +1,65 @@
 [
   {
-    "name": "Berry Smoothie",
     "src": "assets/items/Smoothie-Mixer/Berry_Smoothie.webp",
-    "category": "Smoothie-Mixer",
+    "name": "Berry Smoothie",
     "qty": 0,
-    "lvl": 64
+    "level": 64,
+    "category": "Smoothie-Mixer"
   },
   {
-    "name": "Green Smoothie",
     "src": "assets/items/Smoothie-Mixer/Green_Smoothie.webp",
-    "category": "Smoothie-Mixer",
+    "name": "Green Smoothie",
     "qty": 0,
-    "lvl": 66
+    "level": 66,
+    "category": "Smoothie-Mixer"
   },
   {
-    "name": "Yogurt Smoothie",
     "src": "assets/items/Smoothie-Mixer/Yogurt_Smoothie.webp",
-    "category": "Smoothie-Mixer",
+    "name": "Yogurt Smoothie",
     "qty": 0,
-    "lvl": 70
+    "level": 70,
+    "category": "Smoothie-Mixer"
   },
   {
-    "name": "Cucumber Smoothie",
     "src": "assets/items/Smoothie-Mixer/Cucumber_Smoothie.webp",
-    "category": "Smoothie-Mixer",
+    "name": "Cucumber Smoothie",
     "qty": 0,
-    "lvl": 70
+    "level": 70,
+    "category": "Smoothie-Mixer"
   },
   {
-    "name": "Mixed Smoothie",
     "src": "assets/items/Smoothie-Mixer/Mixed_Smoothie.webp",
-    "category": "Smoothie-Mixer",
+    "name": "Mixed Smoothie",
     "qty": 0,
-    "lvl": 88
+    "level": 88,
+    "category": "Smoothie-Mixer"
   },
   {
-    "name": "Black Sesame Smoothie",
     "src": "assets/items/Smoothie-Mixer/Black_Sesame_Smoothie.webp",
-    "category": "Smoothie-Mixer",
+    "name": "Black Sesame Smoothie",
     "qty": 0,
-    "lvl": 93
+    "level": 93,
+    "category": "Smoothie-Mixer"
   },
   {
-    "name": "Cocoa Smoothie",
     "src": "assets/items/Smoothie-Mixer/Cocoa_Smoothie.webp",
-    "category": "Smoothie-Mixer",
+    "name": "Cocoa Smoothie",
     "qty": 0,
-    "lvl": 100
+    "level": 100,
+    "category": "Smoothie-Mixer"
   },
   {
-    "name": "Plum Smoothie",
     "src": "assets/items/Smoothie-Mixer/Plum_Smoothie.webp",
-    "category": "Smoothie-Mixer",
+    "name": "Plum Smoothie",
     "qty": 0,
-    "lvl": 102
+    "level": 102,
+    "category": "Smoothie-Mixer"
   },
   {
-    "name": "Tropical Smoothie",
     "src": "assets/items/Smoothie-Mixer/Tropical_Smoothie.webp",
-    "category": "Smoothie-Mixer",
+    "name": "Tropical Smoothie",
     "qty": 0,
-    "lvl": 104
+    "level": 104,
+    "category": "Smoothie-Mixer"
   }
 ]

@@ -1,86 +1,48 @@
 [
   {
-    "name": "Feta Salad",
     "src": "assets/items/Salad-Bar/Feta_Salad.webp",
-    "category": "Salad-Bar",
+    "name": "Feta Salad",
     "qty": 0,
-    "lvl": 58
+    "level": 58,
+    "category": "Salad-Bar"
   },
   {
-    "name": "BLT Salad",
     "src": "assets/items/Salad-Bar/BLT_Salad.webp",
-    "category": "Salad-Bar",
+    "name": "BLT Salad",
     "qty": 0,
-    "lvl": 62
+    "level": 62,
+    "category": "Salad-Bar"
   },
   {
-    "name": "Seafood Salad",
     "src": "assets/items/Salad-Bar/Seafood_Salad.webp",
-    "category": "Salad-Bar",
+    "name": "Seafood Salad",
     "qty": 0,
-    "lvl": 64
+    "level": 64,
+    "category": "Salad-Bar"
   },
   {
-    "name": "Pasta Salad",
     "src": "assets/items/Salad-Bar/Pasta_Salad.webp",
-    "category": "Salad-Bar",
+    "name": "Pasta Salad",
     "qty": 0,
-    "lvl": 67
+    "level": 67,
+    "category": "Salad-Bar"
   },
   {
-    "name": "Veggie Platter",
     "src": "assets/items/Salad-Bar/Veggie_Platter.webp",
-    "category": "Salad-Bar",
+    "name": "Veggie Platter",
     "qty": 0,
-    "lvl": 74
+    "level": 74,
+    "category": "Salad-Bar"
   },
   {
-    "name": "Coleslaw",
     "src": "assets/items/Salad-Bar/Coleslaw.webp",
-    "category": "Salad-Bar",
+    "name": "Coleslaw",
     "qty": 0,
-    "lvl": 75
+    "level": 75,
+    "category": "Salad-Bar"
   },
   {
-    "name": "Beetroot Salad",
     "src": "assets/items/Salad-Bar/Beetroot_Salad.webp",
-    "category": "Salad-Bar",
+    "name": "Beetroot Salad",
     "qty": 0,
-    "lvl": 76
-  },
-  {
-    "name": "Summer Rolls",
-    "src": "assets/items/Salad-Bar/Summer_Rolls.webp",
-    "category": "Salad-Bar",
-    "qty": 0,
-    "lvl": 78
-  },
-  {
-    "name": "Fruit Salad",
-    "src": "assets/items/Salad-Bar/Fruit_Salad.webp",
-    "category": "Salad-Bar",
-    "qty": 0,
-    "lvl": 82
-  },
-  {
-    "name": "Summer Salad",
-    "src": "assets/items/Salad-Bar/Summer_Salad.webp",
-    "category": "Salad-Bar",
-    "qty": 0,
-    "lvl": 84
-  },
-  {
-    "name": "Mushroom Salad",
-    "src": "assets/items/Salad-Bar/Mushroom_Salad.webp",
-    "category": "Salad-Bar",
-    "qty": 0,
-    "lvl": 89
-  },
-  {
-    "name": "Orange Salad",
-    "src": "assets/items/Salad-Bar/Orange_Salad.webp",
-    "category": "Salad-Bar",
-    "qty": 0,
-    "lvl": 117
-  }
-]
+    "level":

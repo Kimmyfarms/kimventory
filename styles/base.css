@@ -31,6 +31,9 @@ html {
   background: linear-gradient(-45deg, var(--color-background-start), var(--color-background-mid), var(--color-background-end));
   background-size: 400% 400%;
   animation: moveGradient 15s ease infinite;
+  /* Prevents font scaling on mobile devices */
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
 }
 
 body {
@@ -66,10 +69,6 @@ body {
     height: auto;
     animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
     mix-blend-mode: normal;
-}
-
-.card, .inventory-item-card {
-    will-change: transform, opacity;
 }
 
 .app-container {
@@ -301,10 +300,11 @@ body.modal-active #bottom-nav {
     cursor: pointer;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
- .inventory-item-card:hover {
+.inventory-item-card:hover {
     transform: translateY(-4px) scale(1.02);
     box-shadow: var(--shadow-soft);
     border-color: rgba(255,255,255,0.4);
+    will-change: transform; /* Performance optimization */
 }
 
 .inventory-item-card img {

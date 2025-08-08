@@ -1,51 +1,51 @@
 [
   {
-    "name": "Gnocchi",
     "src": "assets/items/Pasta-Kitchen/Gnocchi.webp",
-    "category": "Pasta-Kitchen",
+    "name": "Gnocchi",
     "qty": 0,
-    "lvl": 72
+    "level": 72,
+    "category": "Pasta-Kitchen"
   },
   {
-    "name": "Veggie Lasagna",
     "src": "assets/items/Pasta-Kitchen/Veggie_Lasagna.webp",
-    "category": "Pasta-Kitchen",
+    "name": "Veggie Lasagna",
     "qty": 0,
-    "lvl": 74
+    "level": 74,
+    "category": "Pasta-Kitchen"
   },
   {
-    "name": "Lobster Pasta",
     "src": "assets/items/Pasta-Kitchen/Lobster_Pasta.webp",
-    "category": "Pasta-Kitchen",
+    "name": "Lobster Pasta",
     "qty": 0,
-    "lvl": 79
+    "level": 79,
+    "category": "Pasta-Kitchen"
   },
   {
-    "name": "Pasta Carbonara",
     "src": "assets/items/Pasta-Kitchen/Pasta_Carbonara.webp",
-    "category": "Pasta-Kitchen",
+    "name": "Pasta Carbonara",
     "qty": 0,
-    "lvl": 83
+    "level": 83,
+    "category": "Pasta-Kitchen"
   },
   {
-    "name": "Broccoli Pasta",
     "src": "assets/items/Pasta-Kitchen/Broccoli_Pasta.webp",
-    "category": "Pasta-Kitchen",
+    "name": "Broccoli Pasta",
     "qty": 0,
-    "lvl": 83
+    "level": 83,
+    "category": "Pasta-Kitchen"
   },
   {
-    "name": "Spicy Pasta",
     "src": "assets/items/Pasta-Kitchen/Spicy_Pasta.webp",
-    "category": "Pasta-Kitchen",
+    "name": "Spicy Pasta",
     "qty": 0,
-    "lvl": 87
+    "level": 87,
+    "category": "Pasta-Kitchen"
   },
   {
-    "name": "Mushroom Pasta",
     "src": "assets/items/Pasta-Kitchen/Mushroom_Pasta.webp",
-    "category": "Pasta-Kitchen",
+    "name": "Mushroom Pasta",
     "qty": 0,
-    "lvl": 101
+    "level": 101,
+    "category": "Pasta-Kitchen"
   }
 ]

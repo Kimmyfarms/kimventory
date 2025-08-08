@@ -2,70 +2,70 @@
   {
     "src": "assets/items/Cake/Carrot_Cake.webp",
     "name": "Carrot Cake",
-    "qty": 15,
+    "qty": 0,
 	"level": 21,
     "category": "Cake"
   },
   {
     "src": "assets/items/Cake/Cream_Cake.webp",
     "name": "Cream Cake",
-    "qty": 15,
+    "qty": 0,
 	"level": 23,
     "category": "Cake"
   },
   {
     "src": "assets/items/Cake/Red_Berry_Cake.webp",
     "name": "Red Berry Cake",
-    "qty": 15,
+    "qty": 0,
 	"level": 23,
     "category": "Cake"
   },
   {
     "src": "assets/items/Cake/Cheesecake.webp",
     "name": "Cheesecake",
-    "qty": 15,
+    "qty": 0,
 	"level": 24,
     "category": "Cake"
   },
    {
     "src": "assets/items/Cake/Strawberry_Cake.webp",
     "name": "Strawberry Cake",
-    "qty": 15,
+    "qty": 0,
 	"level": 35,
     "category": "Cake"
   },
   {
     "src": "assets/items/Cake/Chocolate_Cake.webp",
     "name": "Chocolate Cake",
-    "qty": 15,
+    "qty": 0,
 	"level": 36,
     "category": "Cake"
   },
   {
     "src": "assets/items/Cake/Potato_Feta_Cake.webp",
     "name": "Potato Feta Cake",
-    "qty": 15,
+    "qty": 0,
 	"level": 38,
     "category": "Cake"
   },
   {
     "src": "assets/items/Cake/Honey_Apple_Cake.webp",
     "name": "Honey Apple Cake",
-    "qty": 15,
+    "qty": 0,
 	"level": 42,
     "category": "Cake"
   },
   {
     "src": "assets/items/Cake/Fancy_Cake.webp",
     "name": "Fancy Cake",
-    "qty": 15,
+    "qty": 0,
 	"level": 54,
     "category": "Cake"
   },
    {
     "src": "assets/items/Cake/Pineapple_Cake.webp",
     "name": "Pineapple Cake",
-    "qty": 15,
+    "qty": 0,
 	"level": 65,
     "category": "Cake"	
   },
@@ -79,21 +79,21 @@
   {
     "src": "assets/items/Cake/Fruit_Cake.webp",
     "name": "Fruit Cake",
-    "qty": 15,
+    "qty": 0,
 	"level": 89,
     "category": "Cake"
   },
   {
     "src": "assets/items/Cake/Chocolate_Roll.webp",
     "name": "Chocolate Roll",
-    "qty": 15,
+    "qty": 0,
 	"level": 98,
     "category": "Cake"
   },
   {
     "src": "assets/items/Cake/Pomegranate_Cake.webp",
     "name": "Pomegranate Cake",    
-    "qty": 15,
+    "qty": 0,
 	"level": 108,
     "category": "Cake"
   }

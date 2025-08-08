@@ -2,49 +2,49 @@
   {
     "src": "assets/items/Coffee-Kiosk/Espresso.webp",
     "name": "Espresso",
-    "qty": 15,
+    "qty": 0,
 	"level": 42,
     "category": "Coffee-Kiosk"
   },
   {
     "src": "assets/items/Coffee-Kiosk/Caffe_Latte.webp",
     "name": "Caffe Latte",
-    "qty": 15,
+    "qty": 0,
 	"level": 43,
     "category": "Coffee-Kiosk"
   },
   {
     "src": "assets/items/Coffee-Kiosk/Caffe_Mocha.webp",
     "name": "Caffe Mocha",
-    "qty": 15,
+    "qty": 0,
 	"level": 45,
     "category": "Coffee-Kiosk"
   },
   {
     "src": "assets/items/Coffee-Kiosk/Raspberry_Mocha.webp",
     "name": "Raspberry Mocha",
-    "qty": 15,
+    "qty": 0,
 	"level": 46,
     "category": "Coffee-Kiosk"
   },
   {
     "src": "assets/items/Coffee-Kiosk/Hot_Chocolate.webp",
     "name": "Hot Chocolate",
-    "qty": 15,
+    "qty": 0,
 	"level": 47,
     "category": "Coffee-Kiosk"
   },
   {
     "src": "assets/items/Coffee-Kiosk/Caramel_Latte.webp",
     "name": "Caramel Latte",
-    "qty": 15,
+    "qty": 0,
 	"level": 62,
     "category": "Coffee-Kiosk"
   },
   {
     "src": "assets/items/Coffee-Kiosk/Iced_Banana_Latte.webp",
     "name": "Iced Banana Latte",
-    "qty": 15,
+    "qty": 0,
 	"level": 88,
     "category": "Coffee-Kiosk"
   }

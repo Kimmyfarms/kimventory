@@ -1,44 +1,44 @@
 [
   {
-    "name": "Bacon Fries",
     "src": "assets/items/Deep-Fryer/Bacon_Fries.webp",
-    "category": "Deep Fryer",
+    "name": "Bacon Fries",
     "qty": 0,
-    "lvl": 87
+    "level": 87,
+    "category": "Deep Fryer"
   },
   {
-    "name": "Hand Pies",
     "src": "assets/items/Deep-Fryer/Hand_Pies.webp",
-    "category": "Deep Fryer",
+    "name": "Hand Pies",
     "qty": 0,
-    "lvl": 91
+    "level": 91,
+    "category": "Deep Fryer"
   },
   {
-    "name": "Chili Poppers",
     "src": "assets/items/Deep-Fryer/Chili_Poppers.webp",
-    "category": "Deep Fryer",
+    "name": "Chili Poppers",
     "qty": 0,
-    "lvl": 98
+    "level": 98,
+    "category": "Deep Fryer"
   },
   {
-    "name": "Falafel",
     "src": "assets/items/Deep-Fryer/Falafel.webp",
-    "category": "Deep Fryer",
+    "name": "Falafel",
     "qty": 0,
-    "lvl": 98
+    "level": 98,
+    "category": "Deep Fryer"
   },
   {
-    "name": "Fried Candy Bar",
     "src": "assets/items/Deep-Fryer/Fried_Candy_Bar.webp",
-    "category": "Deep Fryer",
+    "name": "Fried Candy Bar",
     "qty": 0,
-    "lvl": 100
+    "level": 100,
+    "category": "Deep Fryer"
   },
   {
-    "name": "Samosa",
     "src": "assets/items/Deep-Fryer/Samosa.webp",
-    "category": "Deep Fryer",
+    "name": "Samosa",
     "qty": 0,
-    "lvl": 103
+    "level": 103,
+    "category": "Deep Fryer"
   }
 ]

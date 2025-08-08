@@ -1,37 +1,37 @@
 [
   {
-    "name": "Plain Waffles",
     "src": "assets/items/Waffle-Maker/Plain_Waffles.webp",
-    "category": "Waffle-Maker",
+    "name": "Plain Waffles",
     "qty": 0,
-    "lvl": 114
+    "level": 114,
+    "category": "Waffle-Maker"
   },
   {
-    "name": "Berry Waffles",
     "src": "assets/items/Waffle-Maker/Berry_Waffles.webp",
-    "category": "Waffle-Maker",
+    "name": "Berry Waffles",
     "qty": 0,
-    "lvl": 114
+    "level": 114,
+    "category": "Waffle-Maker"
   },
   {
-    "name": "Chocolate Waffles",
     "src": "assets/items/Waffle-Maker/Chocolate_Waffles.webp",
-    "category": "Waffle-Maker",
+    "name": "Chocolate Waffles",
     "qty": 0,
-    "lvl": 117
+    "level": 117,
+    "category": "Waffle-Maker"
   },
   {
-    "name": "Blueberry Waffles",
     "src": "assets/items/Waffle-Maker/Blueberry_Waffles.webp",
-    "category": "Waffle-Maker",
+    "name": "Blueberry Waffles",
     "qty": 0,
-    "lvl": 118
+    "level": 118,
+    "category": "Waffle-Maker"
   },
   {
-    "name": "Breakfast Waffles",
     "src": "assets/items/Waffle-Maker/Breakfast_Waffles.webp",
-    "category": "Waffle-Maker",
+    "name": "Breakfast Waffles",
     "qty": 0,
-    "lvl": 119
+    "level": 119,
+    "category": "Waffle-Maker"
   }
 ]

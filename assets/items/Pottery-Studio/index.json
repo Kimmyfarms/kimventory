@@ -1,23 +1,23 @@
 [
   {
-    "name": "Tea Pot",
     "src": "assets/items/Pottery-Studio/Tea_Pot.webp",
-    "category": "Pottery Studio",
+    "name": "Tea Pot",
     "qty": 0,
-    "lvl": 94
+    "level": 94,
+    "category": "Pottery Studio"
   },
   {
-    "name": "Potted Plant",
     "src": "assets/items/Pottery-Studio/Potted_Plant.webp",
-    "category": "Pottery Studio",
+    "name": "Potted Plant",
     "qty": 0,
-    "lvl": 96
+    "level": 96,
+    "category": "Pottery Studio"
   },
   {
-    "name": "Clay Mug",
     "src": "assets/items/Pottery-Studio/Clay_Mug.webp",
-    "category": "Pottery Studio",
+    "name": "Clay Mug",
     "qty": 0,
-    "lvl": 99
+    "level": 99,
+    "category": "Pottery Studio"
   }
 ]

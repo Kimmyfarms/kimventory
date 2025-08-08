@@ -1,23 +1,23 @@
 [
   {
-    "name": "Vanilla Milkshake",
     "src": "assets/items/Milkshake-Bar/Vanilla_Milkshake.webp",
-    "category": "Milkshake-Bar",
+    "name": "Vanilla Milkshake",
     "qty": 0,
-    "lvl": 124
+    "level": 124,
+    "category": "Milkshake-Bar"
   },
   {
-    "name": "Mocha Milkshake",
     "src": "assets/items/Milkshake-Bar/Mocha_Milkshake.webp",
-    "category": "Milkshake-Bar",
+    "name": "Mocha Milkshake",
     "qty": 0,
-    "lvl": 125
+    "level": 125,
+    "category": "Milkshake-Bar"
   },
   {
-    "name": "Fruity Milkshake",
     "src": "assets/items/Milkshake-Bar/Fruity_Milkshake.webp",
-    "category": "Milkshake-Bar",
+    "name": "Fruity Milkshake",
     "qty": 0,
-    "lvl": 126
+    "level": 126,
+    "category": "Milkshake-Bar"
   }
 ]

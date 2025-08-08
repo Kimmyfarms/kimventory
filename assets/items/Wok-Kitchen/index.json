@@ -1,30 +1,30 @@
 [
   {
-    "name": "Fried Rice",
     "src": "assets/items/Wok-Kitchen/Fried_Rice.webp",
-    "category": "Wok-Kitchen",
+    "name": "Fried Rice",
     "qty": 0,
-    "lvl": 69
+    "level": 69,
+    "category": "Wok-Kitchen"
   },
   {
-    "name": "Spicy Fish",
     "src": "assets/items/Wok-Kitchen/Spicy_Fish.webp",
-    "category": "Wok-Kitchen",
+    "name": "Spicy Fish",
     "qty": 0,
-    "lvl": 79
+    "level": 79,
+    "category": "Wok-Kitchen"
   },
   {
-    "name": "Peanut Noodles",
     "src": "assets/items/Wok-Kitchen/Peanut_Noodles.webp",
-    "category": "Wok-Kitchen",
+    "name": "Peanut Noodles",
     "qty": 0,
-    "lvl": 86
+    "level": 86,
+    "category": "Wok-Kitchen"
   },
   {
-    "name": "Tofu Stir Fry",
     "src": "assets/items/Wok-Kitchen/Tofu_Stir_Fry.webp",
-    "category": "Wok-Kitchen",
+    "name": "Tofu Stir Fry",
     "qty": 0,
-    "lvl": 89
+    "level": 89,
+    "category": "Wok-Kitchen"
   }
 ]

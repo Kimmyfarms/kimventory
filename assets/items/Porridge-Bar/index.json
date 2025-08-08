@@ -1,23 +1,23 @@
 [
   {
-    "name": "Apple Porridge",
     "src": "assets/items/Porridge-Bar/Apple_Porridge.webp",
-    "category": "Porridge-Bar",
+    "name": "Apple Porridge",
     "qty": 0,
-    "lvl": 119
+    "level": 119,
+    "category": "Porridge-Bar"
   },
   {
-    "name": "Sweet Porridge",
     "src": "assets/items/Porridge-Bar/Sweet_Porridge.webp",
-    "category": "Porridge-Bar",
+    "name": "Sweet Porridge",
     "qty": 0,
-    "lvl": 120
+    "level": 120,
+    "category": "Porridge-Bar"
   },
   {
-    "name": "Fresh Porridge",
     "src": "assets/items/Porridge-Bar/Fresh_Porridge.webp",
-    "category": "Porridge-Bar",
+    "name": "Fresh Porridge",
     "qty": 0,
-    "lvl": 122
+    "level": 122,
+    "category": "Porridge-Bar"
   }
 ]
