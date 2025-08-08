@@ -132,8 +132,8 @@ if ('serviceWorker' in navigator) {
         name: 'Food & Drink', 
         subCategories: [
             { id: 'Bakery', name: 'Bakery', icon: 'assets/items/Buildings/Bakery.webp' },
-            { id: 'Popcorn', name: 'Popcorn Pot', icon: 'assets/items/Buildings/popcorn_Pot.webp' },
-            { id: 'BBQ', name: 'BBQ Grill', icon: 'assets/items/Buildings/BBQ_Grill.webp' },
+            { id: 'Popcorn', name: 'Popcorn Pot', icon: 'assets/items/Buildings/Popcorn_Pot.webp' },
+            { id: 'Bbq', name: 'BBQ Grill', icon: 'assets/items/Buildings/BBQ_Grill.webp' },
             { id: 'Pie', name: 'Pie Oven', icon: 'assets/items/Buildings/Pie_Oven.webp' },
             { id: 'Cake', name: 'Cake Oven', icon: 'assets/items/Buildings/Cake_Oven.webp' },
             { id: 'Juice', name: 'Juice Press', icon: 'assets/items/Buildings/Juice_Press.webp' },
