@@ -2,7 +2,7 @@
 if ('serviceWorker' in navigator) {
   const registerServiceWorker = async () => {
     try {
-      const registration = await navigator.serviceWorker.register('/sw.js');
+      const registration = await navigator.serviceWorker.register('./sw.js', { scope: './' });
       console.log('ServiceWorker registration successful with scope: ', registration.scope);
       registration.addEventListener('updatefound', () => {
         const newWorker = registration.installing;
