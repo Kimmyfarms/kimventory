@@ -174,6 +174,13 @@ if ('serviceWorker' in navigator) {
             { id: 'Lobster', name: 'Lobster Pool', icon: 'assets/items/Buildings/Lobster_Pool_Stage_6.webp' },
             { id: 'Duck', name: 'Duck Salon', icon: 'assets/items/Buildings/Duck_Salon_Stage6.webp' },
 			{ id: 'Feed-Mill', name: 'Feed Mill', icon: 'assets/items/Buildings/Feed_Mill.webp' },
+			{ id: 'Chicken', name: 'Chicken', icon: 'assets/items/Buildings/Chicken.webp' },
+			{ id: 'Cow', name: 'Cow', icon: 'assets/items/Buildings/Cow.webp' },
+	  		{ id: 'Pig', name: 'Pig', icon: 'assets/items/Buildings/Pig.webp' },
+	  		{ id: 'Sheep', name: 'Sheep', icon: 'assets/items/Buildings/Sheep.webp' },
+	  		{ id: 'Goat', name: 'Goat', icon: 'assets/items/Buildings/Goat.webp' },
+	  		{ id: 'Bee', name: 'Bee', icon: 'assets/items/Buildings/Honey_Bee.webp' },
+	  		{ id: 'Squirrel', name: 'Squirrel', icon: 'assets/items/Buildings/Squirrel.webp' }
         ] 
     },
     { 
