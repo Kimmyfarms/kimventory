@@ -2,7 +2,7 @@
 if ('serviceWorker' in navigator) {
   const registerServiceWorker = async () => {
     try {
-      const registration = await navigator.serviceWorker.register('/kimventory/sw.js');
+      const registration = await navigator.serviceWorker.register('sw.js');
       console.log('ServiceWorker registration successful with scope: ', registration.scope);
       registration.addEventListener('updatefound', () => {
         const newWorker = registration.installing;
