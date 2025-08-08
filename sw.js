@@ -1,5 +1,5 @@
 // A unique name for the cache.
-const CACHE_NAME = 'kimventory-cache-v2.15';
+const CACHE_NAME = 'kimventory-cache-v2.2';
 
 // A list of files to cache when the service worker is installed.
 const urlsToCache = [
@@ -72,3 +72,6 @@ self.addEventListener('message', event => {
     self.skipWaiting();
   }
 });
+
+self.addEventListener('install', () => self.skipWaiting());
+self.addEventListener('activate', (e) => e.waitUntil(self.clients.claim()));
