@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Plain Donut",
+    "src": "assets/items/Donut-Maker/Plain_Donut.webp",
+    "category": "Donut-Maker",
+    "qty": 0,
+    "lvl": 76
+  },
+  {
+    "name": "Sprinkled Donut",
+    "src": "assets/items/Donut-Maker/Sprinkled_Donut.webp",
+    "category": "Donut-Maker",
+    "qty": 0,
+    "lvl": 79
+  },
+  {
+    "name": "Crunchy Donut",
+    "src": "assets/items/Donut-Maker/Crunchy_Donut.webp",
+    "category": "Donut-Maker",
+    "qty": 0,
+    "lvl": 82
+  },
+  {
+    "name": "Cream Donut",
+    "src": "assets/items/Donut-Maker/Cream_Donut.webp",
+    "category": "Donut-Maker",
+    "qty": 0,
+    "lvl": 86
+  },
+  {
+    "name": "Bacon Donut",
+    "src": "assets/items/Donut-Maker/Bacon_Donut.webp",
+    "category": "Donut-Maker",
+    "qty": 0,
+    "lvl": 88
+  },
+  {
+    "name": "Filled Donut",
+    "src": "assets/items/Donut-Maker/Filled_Donut.webp",
+    "category": "Donut-Maker",
+    "qty": 0,
+    "lvl": 93
+  }
+]

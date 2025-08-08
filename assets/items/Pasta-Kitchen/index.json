@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Gnocchi",
+    "src": "assets/items/Pasta-Kitchen/Gnocchi.webp",
+    "category": "Pasta-Kitchen",
+    "qty": 0,
+    "lvl": 72
+  },
+  {
+    "name": "Veggie Lasagna",
+    "src": "assets/items/Pasta-Kitchen/Veggie_Lasagna.webp",
+    "category": "Pasta-Kitchen",
+    "qty": 0,
+    "lvl": 74
+  },
+  {
+    "name": "Lobster Pasta",
+    "src": "assets/items/Pasta-Kitchen/Lobster_Pasta.webp",
+    "category": "Pasta-Kitchen",
+    "qty": 0,
+    "lvl": 79
+  },
+  {
+    "name": "Pasta Carbonara",
+    "src": "assets/items/Pasta-Kitchen/Pasta_Carbonara.webp",
+    "category": "Pasta-Kitchen",
+    "qty": 0,
+    "lvl": 83
+  },
+  {
+    "name": "Broccoli Pasta",
+    "src": "assets/items/Pasta-Kitchen/Broccoli_Pasta.webp",
+    "category": "Pasta-Kitchen",
+    "qty": 0,
+    "lvl": 83
+  },
+  {
+    "name": "Spicy Pasta",
+    "src": "assets/items/Pasta-Kitchen/Spicy_Pasta.webp",
+    "category": "Pasta-Kitchen",
+    "qty": 0,
+    "lvl": 87
+  },
+  {
+    "name": "Mushroom Pasta",
+    "src": "assets/items/Pasta-Kitchen/Mushroom_Pasta.webp",
+    "category": "Pasta-Kitchen",
+    "qty": 0,
+    "lvl": 101
+  }
+]

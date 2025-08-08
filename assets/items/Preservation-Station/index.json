@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Pickles",
+    "src": "assets/items/Preservation-Station/Pickles.webp",
+    "category": "Preservation Station",
+    "qty": 0,
+    "lvl": 91
+  },
+  {
+    "name": "Canned Fish",
+    "src": "assets/items/Preservation-Station/Canned_Fish.webp",
+    "category": "Preservation Station",
+    "qty": 0,
+    "lvl": 95
+  },
+  {
+    "name": "Kimchi",
+    "src": "assets/items/Preservation-Station/Kimchi.webp",
+    "category": "Preservation Station",
+    "qty": 0,
+    "lvl": 98
+  },
+  {
+    "name": "Dried Fruit",
+    "src": "assets/items/Preservation-Station/Dried_Fruit.webp",
+    "category": "Preservation Station",
+    "qty": 0,
+    "lvl": 102
+  },
+  {
+    "name": "Guava Compote",
+    "src": "assets/items/Preservation-Station/Guava_Compote.webp",
+    "category": "Preservation Station",
+    "qty": 0,
+    "lvl": 104
+  }
+]

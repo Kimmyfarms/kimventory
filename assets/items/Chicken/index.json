@@ -1,0 +1,9 @@
+[
+   {
+    "src": "assets/items/Chicken/Egg.webp",
+    "name": "Egg",
+    "qty": 0,
+	"level": 1, 
+    "category": "Chicken"
+  }
+]

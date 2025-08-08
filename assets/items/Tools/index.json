@@ -1,0 +1,44 @@
+[
+ {
+    "src": "assets/items/Tools/Axe.webp",
+    "name": "Axe",
+    "qty": 0,
+	"level": 0, 
+    "category": "Tools"
+  },
+   {
+    "src": "assets/items/Tools/Saw.webp",
+    "name": "Saw",
+    "qty": 0,
+	"level": 0, 
+    "category": "Tools"
+  },
+   {
+    "src": "assets/items/Tools/Shovel.webp",
+    "name": "Shovel",
+    "qty": 0,
+	"level": 0, 
+    "category": "Shovel"
+  },
+   {
+    "src": "assets/items/Tools/Pickaxe.webp",
+    "name": "Pickaxe",
+    "qty": 0,
+	"level": 0, 
+    "category": "Tools"
+  },
+   {
+    "src": "assets/items/Tools/Dynamite.webp",
+    "name": "Dynamite",
+    "qty": 0,
+	"level": 0, 
+    "category": "Tools"
+  },
+   {
+    "src": "assets/items/Tools/TNT_Barrel.webp",
+    "name": "TNT Barrel",
+    "qty": 0,
+	"level": 0, 
+    "category": "Tools"
+  }
+]

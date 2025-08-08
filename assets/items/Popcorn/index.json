@@ -1,0 +1,44 @@
+[
+  {
+    "src": "assets/items/Popcorn/Popcorn.webp",
+    "name": "Popcorn",
+    "qty": 0,
+	"level": 8,
+    "category": "Popcorn"
+  },
+  {
+    "src": "assets/items/Popcorn/Buttered_Popcorn.webp",
+    "name": "Buttered Popcorn",
+    "qty": 0,
+	"level": 16,
+    "category": "Popcorn"
+  },
+  {
+    "src": "assets/items/Popcorn/Chili_Popcorn.webp",
+    "name": "Chili Popcorn",
+    "qty": 0,
+	"level": 25,
+    "category": "Popcorn"
+  },
+  {
+    "src": "assets/items/Popcorn/Honey_Popcorn.webp",
+    "name": "Honey Popcorn",
+    "qty": 0,
+	"level": 40,
+    "category": "Popcorn"
+  },
+  {
+    "src": "assets/items/Popcorn/Chocolate_Popcorn.webp",
+    "name": "Chocolate Popcorn",
+    "qty": 0,
+	"level": 44,
+    "category": "Popcorn"
+  },
+  {
+    "src": "assets/items/Popcorn/Snack_Mix.webp",
+    "name": "Snack Mix",
+    "qty": 0,
+	"level": 64,
+    "category": "Popcorn"
+  }
+]

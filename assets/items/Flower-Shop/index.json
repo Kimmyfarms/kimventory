@@ -1,0 +1,51 @@
+[
+   {
+    "name": "Rustic Bouquet",
+    "src": "assets/items/Flower-Shop/Rustic_Bouquet.webp",
+    "category": "Flower-Shop",
+    "qty": 0,
+    "lvl": 49
+  },
+  {
+    "name": "Bright Bouquet",
+    "src": "assets/items/Flower-Shop/Bright_Bouquet.webp",
+    "category": "Flower-Shop",
+    "qty": 0,
+    "lvl": 65
+  },
+  {
+    "name": "Gracious Bouquet",
+    "src": "assets/items/Flower-Shop/Gracious_Bouquet.webp",
+    "category": "Flower-Shop",
+    "qty": 0,
+    "lvl": 73
+  },
+  {
+    "name": "Candy Bouquet",
+    "src": "assets/items/Flower-Shop/Candy_Bouquet.webp",
+    "category": "Flower-Shop",
+    "qty": 0,
+    "lvl": 90
+  },
+  {
+    "name": "Birthday Bouquet",
+    "src": "assets/items/Flower-Shop/Birthday_Bouquet.webp",
+    "category": "Flower-Shop",
+    "qty": 0,
+    "lvl": 92
+  },
+  {
+    "name": "Soft Bouquet",
+    "src": "assets/items/Flower-Shop/Soft_Bouquet.webp",
+    "category": "Flower-Shop",
+    "qty": 0,
+    "lvl": 93
+  },
+  {
+    "name": "Veggie Bouquet",
+    "src": "assets/items/Flower-Shop/Veggie_Bouquet.webp",
+    "category": "Flower-Shop",
+    "qty": 0,
+    "lvl": 106
+  }
+]

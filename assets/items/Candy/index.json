@@ -1,0 +1,58 @@
+[
+  {
+    "src": "assets/items/Candy/Caramel_Apple.webp",
+    "name": "Caramel Apple",
+    "qty": 0,
+	"level": 51,
+    "category": "Candy"
+  },
+  {
+    "src": "assets/items/Candy/Toffee.webp",
+    "name": "Toffee",
+    "qty": 0,
+	"level": 52,
+    "category": "Candy"
+  },
+  {
+    "src": "assets/items/Candy/Chocolate.webp",
+    "name": "Chocolate",
+    "qty": 0,
+	"level": 54,
+    "category": "Candy"
+  },
+  {
+    "src": "assets/items/Candy/Lollipop.webp",
+    "name": "Lollipop",
+    "qty": 0,
+	"level": 57,
+    "category": "Candy"
+  },
+  {
+    "src": "assets/items/Candy/Jelly_Beans.webp",
+    "name": "Jelly Beans",
+    "qty": 0,
+	"level": 60,
+    "category": "Candy"
+  },
+  {
+    "src": "assets/items/Candy/Honey_Peanuts.webp",
+    "name": "Honey Peanuts",
+    "qty": 0,
+	"level": 63,
+    "category": "Candy"
+  },
+  {
+    "src": "assets/items/Candy/Cotton_Candy.webp",
+    "name": "Cotton Candy",
+    "qty": 0,
+	"level": 75,
+    "category": "Candy"
+  },
+  {
+    "src": "assets/items/Candy/Sesame_Brittle.webp",
+    "name": "Sesame Brittle",
+    "qty": 0,
+	"level": 78,
+    "category": "Candy"
+  }
+]

@@ -1,0 +1,9 @@
+[
+   {
+    "src": "assets/items/Bee/Honeycomb.webp",
+    "name": "Honeycomb",
+    "qty": 0,
+	"level": 39, 
+    "category": "Bee"
+  }
+]

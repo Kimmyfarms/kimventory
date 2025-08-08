@@ -1,0 +1,30 @@
+{
+  "name": "Kimmy's Inventory Tracker",
+  "short_name": "Kimventory",
+  "description": "An inventory tracker made by Kimmy's.",
+  "icons": [
+    {
+      "src": "assets/items/placehold_ico/1.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/items/placehold_ico/1.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/items/placehold_ico.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#f2b7de",
+  "background_color": "#f2b7de",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}

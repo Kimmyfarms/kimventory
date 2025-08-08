@@ -1,0 +1,9 @@
+[
+   {
+    "src": "assets/items/Duck/Duck_Feather.webp",
+    "name": "Duck Feather",
+    "qty": 0,
+	"level": 50, 
+    "category": "Duck"
+  }
+]

@@ -1,0 +1,30 @@
+[
+ {
+    "src": "assets/items/Barn-Materials/Bem.png",
+    "name": "Bem",
+    "qty": 0,
+	"level": 0, 
+    "category": "Barn-Materials"
+  },
+   {
+    "src": "assets/items/Barn-Materials/Bolt.webp",
+    "name": "Bolt",
+    "qty": 0,
+	"level": 0, 
+    "category": "Barn-Materials"
+  },
+   {
+    "src": "assets/items/Barn-Materials/Duct_Tape.webp",
+    "name": "Duct_Tape",
+    "qty": 0,
+	"level": 0, 
+    "category": "Barn-Materials"
+  },
+   {
+    "src": "assets/items/Barn-Materials/Plank.webp",
+    "name": "Plank",
+    "qty": 0,
+	"level": 0, 
+    "category": "Barn-Materials"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Fresh Pasta",
+    "src": "assets/items/Pasta-Maker/Fresh_Pasta.webp",
+    "category": "Pasta",
+    "qty": 0,
+    "lvl": 67
+  },
+  {
+    "name": "Rice Noodles",
+    "src": "assets/items/Pasta-Maker/Rice_Noodles.webp",
+    "category": "Pasta",
+    "qty": 0,
+    "lvl": 73
+  }
+]

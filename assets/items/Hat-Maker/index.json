@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Cloche Hat",
+    "src": "assets/items/Hat-Maker/Cloche_Hat.webp",
+    "category": "Hat-Maker",
+    "qty": 0,
+    "lvl": 70
+  },
+  {
+    "name": "Top Hat",
+    "src": "assets/items/Hat-Maker/Top_Hat.webp",
+    "category": "Hat-Maker",
+    "qty": 0,
+    "lvl": 72
+  },
+  {
+    "name": "Sun Hat",
+    "src": "assets/items/Hat-Maker/Sun_Hat.webp",
+    "category": "Hat-Maker",
+    "qty": 0,
+    "lvl": 74
+  },
+  {
+    "name": "Flower Crown",
+    "src": "assets/items/Hat-Maker/Flower_Crown.webp",
+    "category": "Hat-Maker",
+    "qty": 0,
+    "lvl": 86
+  }
+]

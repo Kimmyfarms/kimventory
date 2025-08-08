@@ -1,0 +1,51 @@
+[
+ {
+    "src": "assets/items/Town-Materials/Map_Piece.webp",
+    "name": "Map_Piece",
+    "qty": 0,
+	"level": 34, 
+    "category": "Town-Materials"
+  },
+   {
+    "src": "assets/items/Town-Materials/Hammer.webp",
+    "name": "Hammer",
+    "qty": 0,
+	"level": 34, 
+    "category": "Town-Materials"
+  },
+   {
+    "src": "assets/items/Town-Materials/Hand_Drill.webp",
+    "name": "Hand Drill",
+    "qty": 0,
+	"level": 34, 
+    "category": "Town-Materials"
+  },
+   {
+    "src": "assets/items/Town-Materials/Tar_Bucket.webp",
+    "name": "Tar Bucket",
+    "qty": 0,
+	"level": 34, 
+    "category": "Town-Materials"
+  },
+   {
+    "src": "assets/items/Town-Materials/Brick.webp",
+    "name": "Brick",
+    "qty": 0,
+	"level": 34, 
+    "category": "Town-Materials"
+  },
+   {
+    "src": "assets/items/Town-Materials/Paint_Bucket.webp",
+    "name": "Paint Bucket",
+    "qty": 0,
+	"level": 34, 
+    "category": "Town-Materials"
+  },
+   {
+    "src": "assets/items/Town-Materials/Stone_Block.webp",
+    "name": "Stone Block",
+    "qty": 0,
+	"level": 34, 
+    "category": "Town-Materials"
+  }
+]

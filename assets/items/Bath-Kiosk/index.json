@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Honey Soap",
+    "src": "assets/items/Bath-Kiosk/Honey_Soap.webp",
+    "category": "Bath Kiosk",
+    "qty": 0,
+    "lvl": 84
+  },
+  {
+    "name": "Lemon Lotion",
+    "src": "assets/items/Bath-Kiosk/Lemon_Lotion.webp",
+    "category": "Bath Kiosk",
+    "qty": 0,
+    "lvl": 84
+  },
+  {
+    "name": "Exfoliating Soap",
+    "src": "assets/items/Bath-Kiosk/Exfoliating_Soap.webp",
+    "category": "Bath Kiosk",
+    "qty": 0,
+    "lvl": 93
+  },
+  {
+    "name": "Honey Face Mask",
+    "src": "assets/items/Bath-Kiosk/Honey_Face_Mask.webp",
+    "category": "Bath Kiosk",
+    "qty": 0,
+    "lvl": 99
+  },
+  {
+    "name": "Rich Soap",
+    "src": "assets/items/Bath-Kiosk/Rich_Soap.webp",
+    "category": "Bath Kiosk",
+    "qty": 0,
+    "lvl": 121
+  }
+]

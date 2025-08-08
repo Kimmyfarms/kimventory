@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Fresh Diffuser",
+    "src": "assets/items/Perfumerie/Fresh_Diffuser.webp",
+    "category": "Perfumerie",
+    "qty": 0,
+    "lvl": 110
+  },
+  {
+    "name": "Zesty Perfume",
+    "src": "assets/items/Perfumerie/Zesty_Perfume.webp",
+    "category": "Perfumerie",
+    "qty": 0,
+    "lvl": 113
+  },
+  {
+    "name": "Calming Diffuser",
+    "src": "assets/items/Perfumerie/Calming_Diffuser.webp",
+    "category": "Perfumerie",
+    "qty": 0,
+    "lvl": 116
+  }
+]

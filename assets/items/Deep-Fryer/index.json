@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Bacon Fries",
+    "src": "assets/items/Deep-Fryer/Bacon_Fries.webp",
+    "category": "Deep Fryer",
+    "qty": 0,
+    "lvl": 87
+  },
+  {
+    "name": "Hand Pies",
+    "src": "assets/items/Deep-Fryer/Hand_Pies.webp",
+    "category": "Deep Fryer",
+    "qty": 0,
+    "lvl": 91
+  },
+  {
+    "name": "Chili Poppers",
+    "src": "assets/items/Deep-Fryer/Chili_Poppers.webp",
+    "category": "Deep Fryer",
+    "qty": 0,
+    "lvl": 98
+  },
+  {
+    "name": "Falafel",
+    "src": "assets/items/Deep-Fryer/Falafel.webp",
+    "category": "Deep Fryer",
+    "qty": 0,
+    "lvl": 98
+  },
+  {
+    "name": "Fried Candy Bar",
+    "src": "assets/items/Deep-Fryer/Fried_Candy_Bar.webp",
+    "category": "Deep Fryer",
+    "qty": 0,
+    "lvl": 100
+  },
+  {
+    "name": "Samosa",
+    "src": "assets/items/Deep-Fryer/Samosa.webp",
+    "category": "Deep Fryer",
+    "qty": 0,
+    "lvl": 103
+  }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "src": "assets/items/Trees/Apple.webp",
+        "name": "Apple",
+        "qty": 0,
+        "level": 15,
+        "category": "Trees"
+    },
+    {
+        "src": "assets/items/Trees/Cherry.webp",
+        "name": "Cherry",
+        "qty": 0,
+        "level": 22,
+        "category": "Trees"
+    },
+    {
+        "src": "assets/items/Trees/Cacao.webp",
+        "name": "Cacao",
+        "qty": 0,
+        "level": 36,
+        "category": "Trees"
+    },
+    {
+        "src": "assets/items/Trees/Olive.webp",
+        "name": "Olive",
+        "qty": 0,
+        "level": 57,
+        "category": "Trees"
+    },
+    {
+        "src": "assets/items/Trees/Lemon.webp",
+        "name": "Lemon",
+        "qty": 0,
+        "level": 66,
+        "category": "Trees"
+    },
+    {
+        "src": "assets/items/Trees/Orange.webp",
+        "name": "Orange",
+        "qty": 0,
+        "level": 71,
+        "category": "Trees"
+    },
+    {
+        "src": "assets/items/Trees/Peach.webp",
+        "name": "Peach",
+        "qty": 0,
+        "level": 76,
+        "category": "Trees"
+    },
+    {
+        "src": "assets/items/Trees/Banana.webp",
+        "name": "Banana",
+        "qty": 0,
+        "level": 88,
+        "category": "Trees"
+    },
+	{
+        "src": "assets/items/Trees/Plum.webp",
+        "name": "Plum",
+        "qty": 0,
+        "level": 94,
+        "category": "Trees"
+    },
+    {
+        "src": "assets/items/Trees/Mango.webp",
+        "name": "Mango",
+        "qty": 0,
+        "level": 97,
+        "category": "Trees"
+    },
+    {
+        "src": "assets/items/Trees/Coconut.webp",
+        "name": "Coconut",
+        "qty": 0,
+        "level": 101,
+        "category": "Trees"
+    },
+    {
+        "src": "assets/items/Trees/Guava.webp",
+        "name": "Guava",
+        "qty": 0,
+        "level": 104,
+        "category": "Trees"
+    },
+    {
+        "src": "assets/items/Trees/Pomegranate.webp",
+        "name": "Pomegranate",
+        "qty": 0,
+        "level": 107,
+        "category": "Trees"
+    }
+]

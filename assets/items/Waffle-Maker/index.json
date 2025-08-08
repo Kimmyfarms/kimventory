@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Plain Waffles",
+    "src": "assets/items/Waffle-Maker/Plain_Waffles.webp",
+    "category": "Waffle-Maker",
+    "qty": 0,
+    "lvl": 114
+  },
+  {
+    "name": "Berry Waffles",
+    "src": "assets/items/Waffle-Maker/Berry_Waffles.webp",
+    "category": "Waffle-Maker",
+    "qty": 0,
+    "lvl": 114
+  },
+  {
+    "name": "Chocolate Waffles",
+    "src": "assets/items/Waffle-Maker/Chocolate_Waffles.webp",
+    "category": "Waffle-Maker",
+    "qty": 0,
+    "lvl": 117
+  },
+  {
+    "name": "Blueberry Waffles",
+    "src": "assets/items/Waffle-Maker/Blueberry_Waffles.webp",
+    "category": "Waffle-Maker",
+    "qty": 0,
+    "lvl": 118
+  },
+  {
+    "name": "Breakfast Waffles",
+    "src": "assets/items/Waffle-Maker/Breakfast_Waffles.webp",
+    "category": "Waffle-Maker",
+    "qty": 0,
+    "lvl": 119
+  }
+]

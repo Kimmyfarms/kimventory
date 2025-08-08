@@ -1,0 +1,9 @@
+[
+   {
+    "src": "assets/items/Sheep/Wool.webp",
+    "name": "Wool",
+    "qty": 0,
+	"level": 16, 
+    "category": "Sheep"
+  }
+]

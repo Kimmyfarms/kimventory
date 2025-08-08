@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Veggie Bagel",
+    "src": "assets/items/Sandwich-Bar/Veggie_Bagel.webp",
+    "category": "Sandwich-Bar",
+    "qty": 0,
+    "lvl": 61
+  },
+  {
+    "name": "Bacon Toast",
+    "src": "assets/items/Sandwich-Bar/Bacon_Toast.webp",
+    "category": "Sandwich-Bar",
+    "qty": 0,
+    "lvl": 65
+  },
+  {
+    "name": "Egg Sandwich",
+    "src": "assets/items/Sandwich-Bar/Egg_Sandwich.webp",
+    "category": "Sandwich-Bar",
+    "qty": 0,
+    "lvl": 66
+  },
+  {
+    "name": "Honey Toast",
+    "src": "assets/items/Sandwich-Bar/Honey_Toast.webp",
+    "category": "Sandwich-Bar",
+    "qty": 0,
+    "lvl": 69
+  },
+  {
+    "name": "Peanut Butter Sandwich",
+    "src": "assets/items/Sandwich-Bar/Peanut_Butter_and_Jelly_Sandwich.webp",
+    "category": "Sandwich-Bar",
+    "qty": 0,
+    "lvl": 71
+  },
+  {
+    "name": "Cucumber Sandwich",
+    "src": "assets/items/Sandwich-Bar/Cucumber_Sandwich.webp",
+    "category": "Sandwich-Bar",
+    "qty": 0,
+    "lvl": 79
+  },
+  {
+    "name": "Onion Melt",
+    "src": "assets/items/Sandwich-Bar/Onion_Melt.webp",
+    "category": "Sandwich-Bar",
+    "qty": 0,
+    "lvl": 84
+  },
+  {
+    "name": "Goat Cheese Toast",
+    "src": "assets/items/Sandwich-Bar/Goat_Cheese_Toast.webp",
+    "category": "Sandwich-Bar",
+    "qty": 0,
+    "lvl": 92
+  },
+  {
+    "name": "Hummus Wrap",
+    "src": "assets/items/Sandwich-Bar/Hummus_Wrap.webp",
+    "category": "Sandwich-Bar",
+    "qty": 0,
+    "lvl": 109
+  }
+]

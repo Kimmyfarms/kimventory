@@ -1,0 +1,9 @@
+[
+   {
+    "src": "assets/items/Goat/Goat_Milk.webp",
+    "name": "Goat Milk",
+    "qty": 0,
+	"level": 32, 
+    "category": "Goat"
+  }
+]

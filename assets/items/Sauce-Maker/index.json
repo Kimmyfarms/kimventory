@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Soy Sauce",
+    "src": "assets/items/Sauce-Maker/Soy_Sauce.webp",
+    "category": "Sauce Maker",
+    "qty": 0,
+    "lvl": 54
+  },
+  {
+    "name": "Olive Oil",
+    "src": "assets/items/Sauce-Maker/Olive_Oil.webp",
+    "category": "Sauce Maker",
+    "qty": 0,
+    "lvl": 60
+  },
+  {
+    "name": "Mayonnaise",
+    "src": "assets/items/Sauce-Maker/Mayonnaise.webp",
+    "category": "Sauce Maker",
+    "qty": 0,
+    "lvl": 62
+  },
+  {
+    "name": "Lemon Curd",
+    "src": "assets/items/Sauce-Maker/Lemon_Curd.webp",
+    "category": "Sauce Maker",
+    "qty": 0,
+    "lvl": 66
+  },
+  {
+    "name": "Olive Dip",
+    "src": "assets/items/Sauce-Maker/Olive_Dip.webp",
+    "category": "Sauce Maker",
+    "qty": 0,
+    "lvl": 66
+  },
+  {
+    "name": "Tomato Sauce",
+    "src": "assets/items/Sauce-Maker/Tomato_Sauce.webp",
+    "category": "Sauce Maker",
+    "qty": 0,
+    "lvl": 69
+  },
+  {
+    "name": "Salsa",
+    "src": "assets/items/Sauce-Maker/Salsa.webp",
+    "category": "Sauce Maker",
+    "qty": 0,
+    "lvl": 77
+  },
+  {
+    "name": "Hummus",
+    "src": "assets/items/Sauce-Maker/Hummus.webp",
+    "category": "Sauce Maker",
+    "qty": 0,
+    "lvl": 95
+  },
+  {
+    "name": "Tart Dressing",
+    "src": "assets/items/Sauce-Maker/Tart_Dressing.webp",
+    "category": "Sauce Maker",
+    "qty": 0,
+    "lvl": 100
+  }
+]

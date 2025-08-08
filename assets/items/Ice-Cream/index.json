@@ -1,0 +1,93 @@
+[
+  {
+    "src": "assets/items/Ice-Cream/Vanilla_Ice_Cream.webp",
+    "name": "Vanilla Ice Cream",
+    "qty": 0,
+	"level": 29,
+    "category": "Ice-Cream"
+  },
+  {
+    "src": "assets/items/Ice-Cream/Cherry_Popsicle.webp",
+    "name": "Cherry Popsicle",
+    "qty": 0,
+	"level": 33,
+    "category": "Ice-Cream"
+  },
+  {
+    "src": "assets/items/Ice-Cream/Strawberry_Ice_Cream.webp",
+    "name": "Strawberry Ice Cream",
+    "qty": 0,
+	"level": 34,
+    "category": "Ice-Cream"
+  },
+  {
+    "src": "assets/items/Ice-Cream/Chocolate_Ice_Cream.webp",
+    "name": "Chocolate Ice Cream",
+    "qty": 0,
+	"level": 39,
+    "category": "Ice-Cream"
+  },
+  {
+    "src": "assets/items/Ice-Cream/Sesame_Ice_Cream.webp",
+    "name": "Sesame Ice Cream",
+    "qty": 0,
+	"level": 50,
+    "category": "Ice-Cream"
+  },
+  {
+    "src": "assets/items/Ice-Cream/Peanut_Butter_Milkshake.webp",
+    "name": "Peanut Butter Milkshake",
+    "qty": 0,
+	"level": 68,
+    "category": "Ice-Cream"
+  },
+  {
+    "src": "assets/items/Ice-Cream/Orange_Sorbet.webp",
+    "name": "Orange Sorbet",
+    "qty": 0,
+	"level": 78,
+    "category": "Ice-Cream"
+  },
+  {
+    "src": "assets/items/Ice-Cream/Affogato.webp",
+    "name": "Affogato",
+    "qty": 0,
+	"level": 78,
+    "category": "Ice-Cream"
+  },
+  {
+    "src": "assets/items/Ice-Cream/Peach_Ice_Cream.webp",
+    "name": "Peach Ice Cream",
+    "qty": 0,
+	"level": 83,
+    "category": "Ice-Cream"
+  },
+  {
+    "src": "assets/items/Ice-Cream/Mint_Ice_Cream.webp",
+    "name": "Mint Ice Cream",
+    "qty": 0,
+	"level": 85,
+    "category": "Ice-Cream"
+  },
+  {
+    "src": "assets/items/Ice-Cream/Banana_Split.webp",
+    "name": "Banana Split",
+    "qty": 0,
+	"level": 96,
+    "category": "Ice-Cream"
+  },
+  {
+    "src": "assets/items/Ice-Cream/Coconut_Ice_Cream.webp",
+    "name": "Coconut Ice Cream",
+    "qty": 0,
+	"level": 102,
+    "category": "Ice-Cream"
+  },
+  {
+    "src": "assets/items/Ice-Cream/Fruit_Sorbet.webp",
+    "name": "Fruit Sorbet",
+    "qty": 0,
+	"level": 106,
+    "category": "Ice-Cream"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Plain Cupcake",
+    "src": "assets/items/Cupcake-Maker/Plain_Cupcake.webp",
+    "category": "Cupcake-Maker",
+    "qty": 0,
+    "lvl": 109
+  },
+  {
+    "name": "Guava Cupcake",
+    "src": "assets/items/Cupcake-Maker/Guava_Cupcake.webp",
+    "category": "Cupcake-Maker",
+    "qty": 0,
+    "lvl": 109
+  },
+  {
+    "name": "Tropical Cupcake",
+    "src": "assets/items/Cupcake-Maker/Tropical_Cupcake.webp",
+    "category": "Cupcake-Maker",
+    "qty": 0,
+    "lvl": 112
+  },
+  {
+    "name": "Cookie Cupcake",
+    "src": "assets/items/Cupcake-Maker/Cookie_Cupcake.webp",
+    "category": "Cupcake-Maker",
+    "qty": 0,
+    "lvl": 114
+  }
+]

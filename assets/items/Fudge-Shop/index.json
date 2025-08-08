@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Rich Fudge",
+    "src": "assets/items/Fudge-Shop/Rich_Fudge.webp",
+    "category": "Fudge Shop",
+    "qty": 0,
+    "lvl": 99
+  },
+  {
+    "name": "Mint Fudge",
+    "src": "assets/items/Fudge-Shop/Mint_Fudge.webp",
+    "category": "Fudge Shop",
+    "qty": 0,
+    "lvl": 102
+  },
+  {
+    "name": "Chili Fudge",
+    "src": "assets/items/Fudge-Shop/Chili_Fudge.webp",
+    "category": "Fudge Shop",
+    "qty": 0,
+    "lvl": 104
+  },
+  {
+    "name": "Lemon Fudge",
+    "src": "assets/items/Fudge-Shop/Lemon_Fudge.webp",
+    "category": "Fudge Shop",
+    "qty": 0,
+    "lvl": 108
+  },
+  {
+    "name": "Peanut Fudge",
+    "src": "assets/items/Fudge-Shop/Peanut_Fudge.webp",
+    "category": "Fudge Shop",
+    "qty": 0,
+    "lvl": 111
+  }
+]

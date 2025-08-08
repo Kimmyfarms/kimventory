@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Vanilla Milkshake",
+    "src": "assets/items/Milkshake-Bar/Vanilla_Milkshake.webp",
+    "category": "Milkshake-Bar",
+    "qty": 0,
+    "lvl": 124
+  },
+  {
+    "name": "Mocha Milkshake",
+    "src": "assets/items/Milkshake-Bar/Mocha_Milkshake.webp",
+    "category": "Milkshake-Bar",
+    "qty": 0,
+    "lvl": 125
+  },
+  {
+    "name": "Fruity Milkshake",
+    "src": "assets/items/Milkshake-Bar/Fruity_Milkshake.webp",
+    "category": "Milkshake-Bar",
+    "qty": 0,
+    "lvl": 126
+  }
+]

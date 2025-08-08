@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Green Tea",
+    "src": "assets/items/Tea-Stand/Green_Tea.webp",
+    "category": "Tea Stand",
+    "qty": 0,
+    "lvl": 80
+  },
+  {
+    "name": "Milk Tea",
+    "src": "assets/items/Tea-Stand/Milk_Tea.webp",
+    "category": "Tea Stand",
+    "qty": 0,
+    "lvl": 81
+  },
+  {
+    "name": "Honey Tea",
+    "src": "assets/items/Tea-Stand/Honey_Tea.webp",
+    "category": "Tea Stand",
+    "qty": 0,
+    "lvl": 83
+  },
+  {
+    "name": "Lemon Tea",
+    "src": "assets/items/Tea-Stand/Lemon_Tea.webp",
+    "category": "Tea Stand",
+    "qty": 0,
+    "lvl": 86
+  },
+  {
+    "name": "Apple Ginger Tea",
+    "src": "assets/items/Tea-Stand/Apple_Ginger_Tea.webp",
+    "category": "Tea Stand",
+    "qty": 0,
+    "lvl": 88
+  },
+  {
+    "name": "Orange Tea",
+    "src": "assets/items/Tea-Stand/Orange_Tea.webp",
+    "category": "Tea Stand",
+    "qty": 0,
+    "lvl": 89
+  },
+  {
+    "name": "Iced Tea",
+    "src": "assets/items/Tea-Stand/Iced_Tea.webp",
+    "category": "Tea Stand",
+    "qty": 0,
+    "lvl": 92
+  },
+  {
+    "name": "Mint Tea",
+    "src": "assets/items/Tea-Stand/Mint_Tea.webp",
+    "category": "Tea Stand",
+    "qty": 0,
+    "lvl": 97
+  },
+  {
+    "name": "Chamomile Tea",
+    "src": "assets/items/Tea-Stand/Chamomile_Tea.webp",
+    "category": "Tea Stand",
+    "qty": 0,
+    "lvl": 100
+  },
+  {
+    "name": "Pomegranate Tea",
+    "src": "assets/items/Tea-Stand/Pomegranate_Tea.webp",
+    "category": "Tea Stand",
+    "qty": 0,
+    "lvl": 107
+  }
+]

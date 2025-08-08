@@ -1,0 +1,30 @@
+[
+ {
+    "src": "assets/items/Land-Materials/Lem.png",
+    "name": "Lem",
+    "qty": 0,
+	"level": 0, 
+    "category": "Land-Materials"
+  },
+   {
+    "src": "assets/items/Land-Materials/Land_Deed.webp",
+    "name": "Land Deed",
+    "qty": 0,
+	"level": 0, 
+    "category": "Land-Materials"
+  },
+   {
+    "src": "assets/items/Land-Materials/Mallet.webp",
+    "name": "Mallet",
+    "qty": 0,
+	"level": 0, 
+    "category": "Land-Materials"
+  },
+   {
+    "src": "assets/items/Land-Materials/Marker_Stake.webp",
+    "name": "Marker Stake",
+    "qty": 0,
+	"level": 0, 
+    "category": "Land-Materials"
+  }
+]

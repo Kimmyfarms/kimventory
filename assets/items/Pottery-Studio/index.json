@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Tea Pot",
+    "src": "assets/items/Pottery-Studio/Tea_Pot.webp",
+    "category": "Pottery Studio",
+    "qty": 0,
+    "lvl": 94
+  },
+  {
+    "name": "Potted Plant",
+    "src": "assets/items/Pottery-Studio/Potted_Plant.webp",
+    "category": "Pottery Studio",
+    "qty": 0,
+    "lvl": 96
+  },
+  {
+    "name": "Clay Mug",
+    "src": "assets/items/Pottery-Studio/Clay_Mug.webp",
+    "category": "Pottery Studio",
+    "qty": 0,
+    "lvl": 99
+  }
+]

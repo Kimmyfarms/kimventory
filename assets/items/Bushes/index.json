@@ -1,0 +1,30 @@
+[
+    {
+        "src": "assets/items/Bushes/Raspberry.webp",
+        "name": "Raspberry",
+        "qty": 0,
+        "level": 19,
+        "category": "Bushes"
+    },
+    {
+        "src": "assets/items/Bushes/Blackberry.webp",
+        "name": "Blackberry",
+        "qty": 0,
+        "level": 26,
+        "category": "Bushes"
+    },
+	{
+        "src": "assets/items/Bushes/Blueberry.webp",
+        "name": "Blueberry",
+        "qty": 0,
+        "level": 30,
+        "category": "Bushes"
+    },
+	{
+        "src": "assets/items/Bushes/Coffee_Bean.webp",
+        "name": "Coffee Bean",
+        "qty": 0,
+        "level": 42,
+        "category": "Bushes"
+    }
+]

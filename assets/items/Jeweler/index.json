@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Bracelet",
+    "src": "assets/items/Jeweler/Bracelet.webp",
+    "category": "Jeweler",
+    "qty": 0,
+    "lvl": 38
+  },
+  {
+    "name": "Necklace",
+    "src": "assets/items/Jeweler/Necklace.webp",
+    "category": "Jeweler",
+    "qty": 0,
+    "lvl": 39
+  },
+  {
+    "name": "Diamond Ring",
+    "src": "assets/items/Jeweler/Diamond_Ring.webp",
+    "category": "Jeweler",
+    "qty": 0,
+    "lvl": 40
+  },
+  {
+    "name": "Iron Bracelet",
+    "src": "assets/items/Jeweler/Iron_Bracelet.webp",
+    "category": "Jeweler",
+    "qty": 0,
+    "lvl": 41
+  },
+  {
+    "name": "Flower Pendant",
+    "src": "assets/items/Jeweler/Flower_Pendant.webp",
+    "category": "Jeweler",
+    "qty": 0,
+    "lvl": 98
+  }
+]

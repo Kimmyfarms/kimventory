@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Berry Smoothie",
+    "src": "assets/items/Smoothie-Mixer/Berry_Smoothie.webp",
+    "category": "Smoothie-Mixer",
+    "qty": 0,
+    "lvl": 64
+  },
+  {
+    "name": "Green Smoothie",
+    "src": "assets/items/Smoothie-Mixer/Green_Smoothie.webp",
+    "category": "Smoothie-Mixer",
+    "qty": 0,
+    "lvl": 66
+  },
+  {
+    "name": "Yogurt Smoothie",
+    "src": "assets/items/Smoothie-Mixer/Yogurt_Smoothie.webp",
+    "category": "Smoothie-Mixer",
+    "qty": 0,
+    "lvl": 70
+  },
+  {
+    "name": "Cucumber Smoothie",
+    "src": "assets/items/Smoothie-Mixer/Cucumber_Smoothie.webp",
+    "category": "Smoothie-Mixer",
+    "qty": 0,
+    "lvl": 70
+  },
+  {
+    "name": "Mixed Smoothie",
+    "src": "assets/items/Smoothie-Mixer/Mixed_Smoothie.webp",
+    "category": "Smoothie-Mixer",
+    "qty": 0,
+    "lvl": 88
+  },
+  {
+    "name": "Black Sesame Smoothie",
+    "src": "assets/items/Smoothie-Mixer/Black_Sesame_Smoothie.webp",
+    "category": "Smoothie-Mixer",
+    "qty": 0,
+    "lvl": 93
+  },
+  {
+    "name": "Cocoa Smoothie",
+    "src": "assets/items/Smoothie-Mixer/Cocoa_Smoothie.webp",
+    "category": "Smoothie-Mixer",
+    "qty": 0,
+    "lvl": 100
+  },
+  {
+    "name": "Plum Smoothie",
+    "src": "assets/items/Smoothie-Mixer/Plum_Smoothie.webp",
+    "category": "Smoothie-Mixer",
+    "qty": 0,
+    "lvl": 102
+  },
+  {
+    "name": "Tropical Smoothie",
+    "src": "assets/items/Smoothie-Mixer/Tropical_Smoothie.webp",
+    "category": "Smoothie-Mixer",
+    "qty": 0,
+    "lvl": 104
+  }
+]

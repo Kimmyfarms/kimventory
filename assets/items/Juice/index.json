@@ -1,0 +1,86 @@
+[
+  {
+    "src": "assets/items/Juice/Carrot_Juice.webp",
+    "name": "Carrot Juice",
+    "qty": 0,
+	"level": 26,
+    "category": "Juice"
+  },
+  {
+    "src": "assets/items/Juice/Apple_Juice.webp",
+    "name": "Apple Juice",
+    "qty": 0,
+	"level": 28,
+    "category": "Juice"
+  },
+  {
+    "src": "assets/items/Juice/Cherry_Juice.webp",
+    "name": "Cherry Juice",
+    "qty": 0,
+	"level": 30,
+    "category": "Juice"
+  },
+  {
+    "src": "assets/items/Juice/Tomato_Juice.webp",
+    "name": "Tomato Juice",
+    "qty": 0,
+	"level": 31,
+    "category": "Juice"
+  },
+  {
+    "src": "assets/items/Juice/Berry_Juice.webp",
+    "name": "Berry Juice",
+    "qty": 0,
+	"level": 31,
+    "category": "Juice"
+  },
+  {
+    "src": "assets/items/Juice/Pineapple_Juice.webp",
+    "name": "Pineapple Juice",
+    "qty": 0,
+	"level": 52,
+    "category": "Juice"
+  },
+  {
+    "src": "assets/items/Juice/Orange_Juice.webp",
+    "name": "Orange Juice",
+    "qty": 0,
+	"level": 71,
+    "category": "Juice"
+  },
+  {
+    "src": "assets/items/Juice/Grape_Juice.webp",
+    "name": "Grape Juice",
+    "qty": 0,
+	"level": 84,
+    "category": "Juice"
+  },
+  {
+    "src": "assets/items/Juice/Passion_Fruit_Juice.webp",
+    "name": "Passion Fruit Juice",
+    "qty": 0,
+	"level": 88,
+    "category": "Juice"
+  },
+  {
+    "src": "assets/items/Juice/Watermelon_Juice.webp",
+    "name": "Watermelon Juice",
+    "qty": 0,
+	"level": 92,
+    "category": "Juice"
+  },
+  {
+    "src": "assets/items/Juice/Mango_Juice.webp",
+    "name": "Mango Juice",
+    "qty": 0,
+	"level": 97,
+    "category": "Juice"
+  },
+  {
+    "src": "assets/items/Juice/Guava_Juice.webp",
+    "name": "Guava Juice",
+    "qty": 0,
+	"level": 104,
+    "category": "Juice"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "src": "assets/items/Bakery/Bread.webp",
+    "name": "Bread",
+    "qty": 15,
+	"level": 2, 
+    "category": "Bakery"
+  },
+  {
+    "src": "assets/items/Bakery/Corn_Bread.webp",
+    "name": "Corn Bread",
+    "qty": 15,
+	"level": 7, 
+    "category": "Bakery"
+  },
+  {
+    "src": "assets/items/Bakery/Cookie.webp",
+    "name": "Cookie",
+    "qty": 15,
+	"level": 10, 
+    "category": "Bakery"
+  },
+  {
+    "src": "assets/items/Bakery/Raspberry_Muffin.webp",
+    "name": "Raspberry Muffin",
+    "qty": 15,
+	"level": 19, 
+    "category": "Bakery"
+  },
+   {
+    "src": "assets/items/Bakery/Blackberry_Muffin.webp",
+    "name": "Blackberry Muffin",
+    "qty": 15,
+	"level": 26, 
+    "category": "Bakery"
+  },
+  {
+    "src": "assets/items/Bakery/Pizza.webp",
+    "name": "Pizza",
+    "qty": 15,
+	"level": 33, 
+    "category": "Bakery"
+  },
+  {
+    "src": "assets/items/Bakery/Spicy_Pizza.webp",
+    "name": "Spicy Pizza",
+    "qty": 15,
+	"level": 37, 
+    "category": "Bakery"
+  },
+  {
+    "src": "assets/items/Bakery/Potato_Bread.webp",
+    "name": "Potato Bread",
+    "qty": 15,
+	"level": 39, 
+    "category": "Bakery"
+  },
+   {
+    "src": "assets/items/Bakery/Frutti_di_Mare_Pizza.webp",
+    "name": "Frutti di Mare Pizza",
+    "qty": 15,
+	"level": 45, 
+    "category": "Bakery"
+  },
+  {
+    "src": "assets/items/Bakery/Gingerbread_Cookie.webp",
+    "name": "Gingerbread Cookie",
+    "qty": 15,
+	"level": 86, 
+    "category": "Bakery"
+  },
+  {
+    "src": "assets/items/Bakery/Banana_Bread.webp",
+    "name": "Banana Bread",
+    "qty": 15,
+	"level": 91, 
+    "category": "Bakery"
+  },
+  {
+    "src": "assets/items/Bakery/Macaroon.webp",
+    "name": "Macaroon",
+    "qty": 15,
+	"level": 101, 
+    "category": "Bakery"
+  },
+  {
+    "src": "assets/items/Bakery/Pineapple_Coconut_Bars.webp",
+    "name": "Pineapple Coconut Bars",
+    "qty": 15,
+	"level": 120, 
+    "category": "Bakery"
+  }
+]

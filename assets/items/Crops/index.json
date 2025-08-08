@@ -1,0 +1,275 @@
+[
+    {
+        "src": "assets/items/Crops/Wheat.webp",
+        "name": "Wheat",
+        "qty": 0,
+        "level": 1,
+        "category": "Crops"
+    },
+    {
+        "src": "assets/items/Crops/Corn.webp",
+        "name": "Corn",
+        "qty": 0,
+        "level": 2,
+        "category": "Crops"
+    },
+    {
+        "src": "assets/items/Crops/Soybean.webp",
+        "name": "Soybean",
+        "qty": 0,
+        "level": 5,
+        "category": "Crops"
+    },
+    {
+        "src": "assets/items/Crops/Sugarcane.webp",
+        "name": "Sugarcane",
+        "qty": 0,
+        "level": 7,
+        "category": "Crops"
+    },
+    {
+        "src": "assets/items/Crops/Carrot.webp",
+        "name": "Carrot",
+        "qty": 0,
+        "level": 9,
+        "category": "Crops"
+    },
+    {
+        "src": "assets/items/Crops/Indigo.webp",
+        "name": "Indigo",
+        "qty": 0,
+        "level": 13,
+        "category": "Crops"
+    },
+    {
+        "src": "assets/items/Crops/Pumpkin.webp",
+        "name": "Pumpkin",
+        "qty": 0,
+        "level": 15,
+        "category": "Crops"
+    },
+    {
+        "src": "assets/items/Crops/Cotton.webp",
+        "name": "Cotton",
+        "qty": 0,
+        "level": 18,
+        "category": "Crops"
+    },
+    {
+        "src": "assets/items/Crops/Chili_Pepper.webp",
+        "name": "Chili Pepper",
+        "qty": 0,
+        "level": 25,
+        "category": "Crops"
+    },
+    {
+        "src": "assets/items/Crops/Tomato.webp",
+        "name": "Tomato",
+        "qty": 0,
+        "level": 30,
+        "category": "Crops"
+    },
+	{
+        "src": "assets/items/Crops/Strawberry.webp",
+        "name": "Strawberry",
+        "qty": 0,
+        "level": 34,
+        "category": "Bushes"
+    },
+    {
+        "src": "assets/items/Crops/Potato.webp",
+        "name": "Potato",
+        "qty": 0,
+        "level": 35,
+        "category": "Crops"
+    },
+	{
+        "src": "assets/items/Crops/Chamomile_Flower.webp",
+        "name": "Chamomile Flower",
+        "qty": 0,
+        "level": 45,
+        "category": "Crops"
+    },
+	{
+        "src": "assets/items/Crops/Asparagus.webp",
+        "name": "Asparagus",
+        "qty": 0,
+        "level": 49,
+        "category": "Crops"
+    },
+	{
+        "src": "assets/items/Crops/Sesame.webp",
+        "name": "Sesame",
+        "qty": 0,
+        "level": 50,
+        "category": "Crops"
+    },
+	{
+        "src": "assets/items/Crops/Pineapple.webp",
+        "name": "Pineapple",
+        "qty": 0,
+        "level": 52,
+        "category": "Crops"
+    },
+	{
+        "src": "assets/items/Crops/Lily.webp",
+        "name": "Lily",
+        "qty": 0,
+        "level": 53,
+        "category": "Crops"
+    },
+    {
+        "src": "assets/items/Crops/Rice.webp",
+        "name": "Rice",
+        "qty": 0,
+        "level": 56,
+        "category": "Crops"
+    },
+    {
+        "src": "assets/items/Crops/Lettuce.webp",
+        "name": "Lettuce",
+        "qty": 0,
+        "level": 58,
+        "category": "Crops"
+    },
+    {
+        "src": "assets/items/Crops/Garlic.webp",
+        "name": "Garlic",
+        "qty": 0,
+        "level": 60,
+        "category": "Crops"
+    },
+    {
+        "src": "assets/items/Crops/Sunflower.webp",
+        "name": "Sunflower",
+        "qty": 0,
+        "level": 63,
+        "category": "Crops"
+    },
+    {
+        "src": "assets/items/Crops/Cabbage.webp",
+        "name": "Cabbage",
+        "qty": 0,
+        "level": 65,
+        "category": "Crops"
+    },
+    {
+        "src": "assets/items/Crops/Onion.webp",
+        "name": "Onion",
+        "qty": 0,
+        "level": 68,
+        "category": "Crops"
+    },
+    {
+        "src": "assets/items/Crops/Cucumber.webp",
+        "name": "Cucumber",
+        "qty": 0,
+        "level": 70,
+        "category": "Crops"
+    },
+    {
+        "src": "assets/items/Crops/Beetroot.webp",
+        "name": "Beetroot",
+        "qty": 0,
+        "level": 72,
+        "category": "Crops"
+    },
+	{
+        "src": "assets/items/Crops/Bell_Pepper.webp",
+        "name": "Bell Pepper",
+        "qty": 0,
+        "level": 74,
+        "category": "Crops"
+    },
+    {
+        "src": "assets/items/Crops/Ginger.webp",
+        "name": "Ginger",
+        "qty": 0,
+        "level": 78,
+        "category": "Crops"
+    },
+    {
+        "src": "assets/items/Crops/Tea_Leaf.webp",
+        "name": "Tea Leaf",
+        "qty": 0,
+        "level": 80,
+        "category": "Crops"
+    },
+	{
+        "src": "assets/items/Crops/Peony.webp",
+        "name": "Peony",
+        "qty": 0,
+        "level": 82,
+        "category": "Crops"
+    },
+    {
+        "src": "assets/items/Crops/Broccoli.webp",
+        "name": "Broccoli",
+        "qty": 0,
+        "level": 83,
+        "category": "Crops"
+    },
+	{
+        "src": "assets/items/Crops/Grapes.webp",
+        "name": "Grapes",
+        "qty": 0,
+        "level": 84,
+        "category": "Crops"
+    },
+	{
+        "src": "assets/items/Crops/Mint.webp",
+        "name": "Mint",
+        "qty": 0,
+        "level": 85,
+        "category": "Crops"
+    },
+	{
+        "src": "assets/items/Crops/Passion_Fruit.webp",
+        "name": "Passion Fruit",
+        "qty": 0,
+        "level": 88,
+        "category": "Crops"
+    },
+	{
+        "src": "assets/items/Crops/Mushroom.webp",
+        "name": "Mushroom",
+        "qty": 0,
+        "level": 89,
+        "category": "Crops"
+    },
+	{
+        "src": "assets/items/Crops/Eggplant.webp",
+        "name": "Eggplant",
+        "qty": 0,
+        "level": 90,
+        "category": "Crops"
+    },	
+	{
+        "src": "assets/items/Crops/Watermelon.webp",
+        "name": "Watermelon",
+        "qty": 0,
+        "level": 92,
+        "category": "Crops"
+    },
+	{
+        "src": "assets/items/Crops/Clay.webp",
+        "name": "Clay",
+        "qty": 0,
+        "level": 94,
+        "category": "Crops"
+    },
+    {
+        "src": "assets/items/Crops/Chickpea.webp",
+        "name": "Chickpea",
+        "qty": 0,
+        "level": 95,
+        "category": "Crops"
+    },
+    {
+        "src": "assets/items/Crops/Oats.webp",
+        "name": "Oats",
+        "qty": 0,
+        "level": 119,
+        "category": "Crops"
+    }
+]

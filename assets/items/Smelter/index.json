@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Silver Bar",
+    "src": "assets/items/Smelter/Silver_Bar.webp",
+    "category": "Smelter",
+    "qty": 0,
+    "lvl": 24
+  },
+  {
+    "name": "Gold Bar",
+    "src": "assets/items/Smelter/Gold_Bar.webp",
+    "category": "Smelter",
+    "qty": 0,
+    "lvl": 25
+  },
+  {
+    "name": "Platinum Bar",
+    "src": "assets/items/Smelter/Platinum_Bar.webp",
+    "category": "Smelter",
+    "qty": 0,
+    "lvl": 25
+  },
+  {
+    "name": "Refined Coal",
+    "src": "assets/items/Smelter/Refined_Coal.webp",
+    "category": "Smelter",
+    "qty": 0,
+    "lvl": 33
+  },
+  {
+    "name": "Iron Bar",
+    "src": "assets/items/Smelter/Iron_Bar.webp",
+    "category": "Smelter",
+    "qty": 0,
+    "lvl": 34
+  }
+]

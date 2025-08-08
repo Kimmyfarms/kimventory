@@ -1,0 +1,30 @@
+[
+{
+    "src": "assets/items/Silo-Materials/Sem.png",
+    "name": "Sem",
+    "qty": 0,
+	"level": 0, 
+    "category": "Silo-Materials"
+  },
+   {
+    "src": "assets/items/Silo-Materials/Nail.webp",
+    "name": "Nail",
+    "qty": 0,
+	"level": 0, 
+    "category": "Silo-Materials"
+  },
+   {
+    "src": "assets/items/Silo-Materials/Screw.webp",
+    "name": "Screw",
+    "qty": 0,
+	"level": 0, 
+    "category": "Silo-Materials"
+  },
+   {
+    "src": "assets/items/Silo-Materials/Wood_Panel.webp",
+    "name": "Wood Panel",
+    "qty": 0,
+	"level": 0, 
+    "category": "Silo-Materials"
+  }
+]

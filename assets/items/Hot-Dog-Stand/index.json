@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Hot Dog",
+    "src": "assets/items/Hot-Dog-Stand/Hot_Dog.webp",
+    "category": "Hot-Dog-Stand",
+    "qty": 0,
+    "lvl": 75
+  },
+  {
+    "name": "Tofu Dog",
+    "src": "assets/items/Hot-Dog-Stand/Tofu_Dog.webp",
+    "category": "Hot-Dog-Stand",
+    "qty": 0,
+    "lvl": 76
+  },
+  {
+    "name": "Corn Dog",
+    "src": "assets/items/Hot-Dog-Stand/Corn_Dog.webp",
+    "category": "Hot-Dog-Stand",
+    "qty": 0,
+    "lvl": 78
+  },
+  {
+    "name": "Onion Dog",
+    "src": "assets/items/Hot-Dog-Stand/Onion_Dog.webp",
+    "category": "Hot-Dog-Stand",
+    "qty": 0,
+    "lvl": 80
+  }
+]

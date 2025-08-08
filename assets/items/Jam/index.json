@@ -1,0 +1,79 @@
+[
+  {
+    "src": "assets/items/Jam/Apple_Jam.webp",
+    "name": "Apple Jam",
+    "qty": 0,
+	"level": 35,
+    "category": "Jam"
+  },
+  {
+    "src": "assets/items/Jam/Raspberry_Jam.webp",
+    "name": "Raspberry Jam",
+    "qty": 0,
+	"level": 36,
+    "category": "Jam"
+  },
+  {
+    "src": "assets/items/Jam/Blackberry_Jam.webp",
+    "name": "Blackberry Jam",
+    "qty": 0,
+	"level": 37,
+    "category": "Jam"
+  },
+  {
+    "src": "assets/items/Jam/Cherry_Jam.webp",
+    "name": "Cherry Jam",
+    "qty": 0,
+	"level": 38,
+    "category": "Jam"
+  },
+  {
+    "src": "assets/items/Jam/Strawberry_Jam.webp",
+    "name": "Strawberry Jam",
+    "qty": 0,
+	"level": 50,
+    "category": "Jam"
+  },
+  {
+    "src": "assets/items/Jam/Blueberry_Chutney.webp",
+    "name": "Blueberry Chutney",
+    "qty": 0,
+	"level": 70,
+    "category": "Jam"
+  },
+  {
+    "src": "assets/items/Jam/Marmalade.webp",
+    "name": "Marmalade",
+    "qty": 0,
+	"level": 74,
+    "category": "Jam"
+  },
+  {
+    "src": "assets/items/Jam/Peach_Jam.webp",
+    "name": "Peach Jam",
+    "qty": 0,
+	"level": 79,
+    "category": "Jam"
+  },
+  {
+    "src": "assets/items/Jam/Grape_Jam.webp",
+    "name": "Grape Jam",
+    "qty": 0,
+	"level": 85,
+    "category": "Jam"
+  },
+  {
+    "src": "assets/items/Jam/Plum_Jam.webp",
+    "name": "Plum Jam",
+    "qty": 0,
+	"level": 94,
+    "category": "Jam"
+  },
+  {
+    "src": "assets/items/Jam/Passion_Fruit_Jam.webp",
+    "name": "Passion Fruit Jam",
+    "qty": 0,
+	"level": 96,
+    "category": "Jam"
+  }
+]

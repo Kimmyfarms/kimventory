@@ -1,0 +1,86 @@
+[
+  {
+    "src": "assets/items/Soup/Lobster_Soup.webp",
+    "name": "Lobster Soup",
+    "qty": 0,
+	"level": 46,
+    "category": "Soup"
+  },
+  {
+    "src": "assets/items/Soup/Tomato_Soup.webp",
+    "name": "Tomato Soup",
+    "qty": 0,
+	"level": 47,
+    "category": "Soup"
+  },
+  {
+    "src": "assets/items/Soup/Pumpkin_Soup.webp",
+    "name": "Pumpkin Soup",
+    "qty": 0,
+	"level": 49,
+    "category": "Soup"
+  },
+  {
+    "src": "assets/items/Soup/Asparagus_Soup.webp",
+    "name": "Asparagus Soup",
+    "qty": 0,
+	"level": 51,
+    "category": "Soup"
+  },
+  {
+    "src": "assets/items/Soup/Fish_Soup.webp",
+    "name": "Fish Soup",
+    "qty": 0,
+	"level": 53,
+    "category": "Soup"
+  },
+  {
+    "src": "assets/items/Soup/Cabbage_Soup.webp",
+    "name": "Cabbage Soup",
+    "qty": 0,
+	"level": 65,
+    "category": "Soup"
+  },
+  {
+    "src": "assets/items/Soup/Onion_Soup.webp",
+    "name": "Onion Soup",
+    "qty": 0,
+	"level": 72,
+    "category": "Soup"
+  },
+  {
+    "src": "assets/items/Soup/Noodle_Soup.webp",
+    "name": "Noodle Soup",
+    "qty": 0,
+	"level": 73,
+    "category": "Soup"
+  },
+  {
+    "src": "assets/items/Soup/Potato_Soup.webp",
+    "name": "Potato Soup",
+    "qty": 0,
+	"level": 78,
+    "category": "Soup"
+  },
+  {
+    "src": "assets/items/Soup/Bell_Pepper_Soup.webp",
+    "name": "Bell Pepper Soup",
+    "qty": 0,
+	"level": 81,
+    "category": "Soup"
+  },
+  {
+    "src": "assets/items/Soup/Broccoli_Soup.webp",
+    "name": "Broccoli Soup",
+    "qty": 0,
+	"level": 87,
+    "category": "Soup"
+  },
+  {
+    "src": "assets/items/Soup/Mushroom_Soup.webp",
+    "name": "Mushroom Soup",
+    "qty": 0,
+	"level": 104,
+    "category": "Soup"
+  }
+]

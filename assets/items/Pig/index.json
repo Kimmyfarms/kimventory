@@ -1,0 +1,9 @@
+[
+   {
+    "src": "assets/items/Pig/Bacon.webp",
+    "name": "Bacon",
+    "qty": 0,
+	"level": 10, 
+    "category": "Pig"
+  }
+]

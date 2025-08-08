@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Colourful Omelet",
+    "src": "assets/items/Omelet-Station/Colourful_Omelet.webp",
+    "category": "Omelet Station",
+    "qty": 0,
+    "lvl": 77
+  },
+  {
+    "name": "Spring Omelet",
+    "src": "assets/items/Omelet-Station/Spring_Omelet.webp",
+    "category": "Omelet Station",
+    "qty": 0,
+    "lvl": 77
+  },
+  {
+    "name": "Cheese Omelet",
+    "src": "assets/items/Omelet-Station/Cheese_Omelet.webp",
+    "category": "Omelet Station",
+    "qty": 0,
+    "lvl": 79
+  },
+  {
+    "name": "Rice Omelet",
+    "src": "assets/items/Omelet-Station/Rice_Omelet.webp",
+    "category": "Omelet Station",
+    "qty": 0,
+    "lvl": 83
+  },
+  {
+    "name": "Potato Omelet",
+    "src": "assets/items/Omelet-Station/Potato_Omelet.webp",
+    "category": "Omelet Station",
+    "qty": 0,
+    "lvl": 87
+  }
+]

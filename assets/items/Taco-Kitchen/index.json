@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Taco",
+    "src": "assets/items/Taco-Kitchen/Taco.webp",
+    "category": "Taco-Kitchen",
+    "qty": 0,
+    "lvl": 77
+  },
+  {
+    "name": "Fish Taco",
+    "src": "assets/items/Taco-Kitchen/Fish_Taco.webp",
+    "category": "Taco-Kitchen",
+    "qty": 0,
+    "lvl": 79
+  },
+  {
+    "name": "Quesadilla",
+    "src": "assets/items/Taco-Kitchen/Quesadilla.webp",
+    "category": "Taco-Kitchen",
+    "qty": 0,
+    "lvl": 82
+  },
+  {
+    "name": "Nachos",
+    "src": "assets/items/Taco-Kitchen/Nachos.webp",
+    "category": "Taco-Kitchen",
+    "qty": 0,
+    "lvl": 87
+  }
+]

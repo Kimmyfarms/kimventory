@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Chocolate Fondue",
+    "src": "assets/items/Fondue-Pot/Chocolate_Fondue.webp",
+    "category": "Fondue Pot",
+    "qty": 0,
+    "lvl": 81
+  },
+  {
+    "name": "Bacon Fondue",
+    "src": "assets/items/Fondue-Pot/Bacon_Fondue.webp",
+    "category": "Fondue Pot",
+    "qty": 0,
+    "lvl": 86
+  },
+  {
+    "name": "Cheese Fondue",
+    "src": "assets/items/Fondue-Pot/Cheese_Fondue.webp",
+    "category": "Fondue Pot",
+    "qty": 0,
+    "lvl": 91
+  },
+  {
+    "name": "Tropical Fondue",
+    "src": "assets/items/Fondue-Pot/Tropical_Fondue.webp",
+    "category": "Fondue Pot",
+    "qty": 0,
+    "lvl": 100
+  }
+]

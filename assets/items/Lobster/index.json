@@ -1,0 +1,9 @@
+[
+  {
+    "src": "assets/items/Lobster/Lobster_Tail.webp",
+    "name": "Lobster Tail",
+    "qty": 15,
+	"level": 44, 
+    "category": "Lobster"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Chickpea Stew",
+    "src": "assets/items/Stew-Pot/Chickpea_Stew.webp",
+    "category": "Stew Pot",
+    "qty": 0,
+    "lvl": 106
+  },
+  {
+    "name": "Chili Stew",
+    "src": "assets/items/Stew-Pot/Chili_Stew.webp",
+    "category": "Stew Pot",
+    "qty": 0,
+    "lvl": 109
+  },
+  {
+    "name": "Winter Stew",
+    "src": "assets/items/Stew-Pot/Winter_Stew.webp",
+    "category": "Stew Pot",
+    "qty": 0,
+    "lvl": 112
+  }
+]

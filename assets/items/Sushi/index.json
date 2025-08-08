@@ -1,0 +1,37 @@
+[
+  {
+    "src": "assets/items/Sushi/Sushi_Roll.webp",
+    "name": "Sushi Roll",
+    "qty": 0,
+	"level": 56,
+    "category": "Sushi"
+  },
+  {
+    "src": "assets/items/Sushi/Lobster_Sushi.webp",
+    "name": "Lobster Sushi",
+    "qty": 0,
+	"level": 59,
+    "category": "Sushi"
+  },
+  {
+    "src": "assets/items/Sushi/Egg_Sushi.webp",
+    "name": "Egg Sushi",
+    "qty": 0,
+	"level": 63,
+    "category": "Sushi"
+  },
+  {
+    "src": "assets/items/Sushi/Big_Sushi_Roll.webp",
+    "name": "Big Sushi Roll",
+    "qty": 0,
+	"level": 76,
+    "category": "Sushi"
+  },
+  {
+    "src": "assets/items/Sushi/Rice_Ball.webp",
+    "name": "Rice Ball",
+    "qty": 0,
+	"level": 110,
+    "category": "Sushi"
+  }
+]
