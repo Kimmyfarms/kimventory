@@ -59,4 +59,14 @@
     "src": "assets/items/Tea-Stand/Chamomile_Tea.webp",
     "name": "Chamomile Tea",
     "qty": 0,
-    "level": 10
+    "level": 100,
+    "category": "Tea-Stand"
+  },
+  {
+    "src": "assets/items/Tea-Stand/Pomegranate_Tea.webp",
+    "name": "Pomegranate Tea",
+    "qty": 0,
+    "level": 107,
+    "category": "Tea-Stand"
+  }
+]

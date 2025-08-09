@@ -120,7 +120,12 @@ if ('serviceWorker' in navigator) {
 	  { id: 'Hat-Maker', name: 'Hat Maker', icon: 'assets/items/Buildings/Hat_Maker.webp' },
 	  { id: 'Bath-Kiosk', name: 'Bath Kiosk', icon: 'assets/items/Buildings/Bath_Kiosk.webp' },
 	  { id: 'Pottery-Studio', name: 'Pottery Studio', icon: 'assets/items/Buildings/Pottery_Studio.webp' },
-	  { id: 'Perfumerie', name: 'Perfumerie', icon: 'assets/items/Buildings/Perfumerie.webp' }
+	  { id: 'Perfumerie', name: 'Perfumerie', icon: 'assets/items/Buildings/Perfumerie.webp' },
+	  { id: 'Silo-Materials', name: 'Silo', icon: 'assets/items/Buildings/Silo.webp' },
+      { id: 'Barn-Materials', name: 'Barn', icon: 'assets/items/Buildings/Barn.webp' },
+      { id: 'Land-Materials', name: 'Land', icon: 'assets/items/Buildings/Land.webp' },
+	  { id: 'Town-Materials', name: 'Town', icon: 'assets/items/Buildings/Town.webp' },
+	  { id: 'Tools', name: 'Tools', icon: 'assets/items/Buildings/Tools.webp' }
   ];
 
   const masterCategoryStructure = [

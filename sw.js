@@ -1,5 +1,5 @@
 // A unique name for the cache.
-const CACHE_NAME = 'kimventory-cache-v2.2';
+const CACHE_NAME = 'kimventory-cache-v2.23';
 
 // A list of files to cache when the service worker is installed.
 const urlsToCache = [

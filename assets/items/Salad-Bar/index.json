@@ -45,4 +45,42 @@
     "src": "assets/items/Salad-Bar/Beetroot_Salad.webp",
     "name": "Beetroot Salad",
     "qty": 0,
-    "level":
+    "level": 76,
+    "category": "Salad-Bar"
+  },
+  {
+    "src": "assets/items/Salad-Bar/Summer_Rolls.webp",
+    "name": "Summer Rolls",
+    "qty": 0,
+    "level": 78,
+    "category": "Salad-Bar"
+  },
+  {
+    "src": "assets/items/Salad-Bar/Fruit_Salad.webp",
+    "name": "Fruit Salad",
+    "qty": 0,
+    "level": 82,
+    "category": "Salad-Bar"
+  },
+  {
+    "src": "assets/items/Salad-Bar/Summer_Salad.webp",
+    "name": "Summer Salad",
+    "qty": 0,
+    "level": 84,
+    "category": "Salad-Bar"
+  },
+  {
+    "src": "assets/items/Salad-Bar/Mushroom_Salad.webp",
+    "name": "Mushroom Salad",
+    "qty": 0,
+    "level": 89,
+    "category": "Salad-Bar"
+  },
+  {
+    "src": "assets/items/Salad-Bar/Orange_Salad.webp",
+    "name": "Orange Salad",
+    "qty": 0,
+    "level": 117,
+    "category": "Salad-Bar"
+  }
+]

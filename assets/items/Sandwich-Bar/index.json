@@ -49,4 +49,17 @@
     "category": "Sandwich-Bar"
   },
   {
-    "src": "assets/items/Sandwich-Bar
+    "src": "assets/items/Sandwich-Bar/Goat_Cheese_Toast.webp",
+    "name": "Goat Cheese Toast",
+    "qty": 0,
+    "level": 92,
+    "category": "Sandwich-Bar"
+  },
+  {
+    "src": "assets/items/Sandwich-Bar/Hummus_Wrap.webp",
+    "name": "Hummus Wrap",
+    "qty": 0,
+    "level": 109,
+    "category": "Sandwich-Bar"
+  }
+]
